@@ -161,14 +161,7 @@
                     {%- endif -%}
                   </div>
                 {%- endif -%}
-                {%- if product != blank -%}
-                  <div {{ block.shopify_attributes }}>
-                    {%- form 'product', product -%}
-                      <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
-                      {{ form | payment_terms }}
-                    {%- endform -%}
-                  </div>
-                {%- endif -%}
+
               {%- when 'sku' -%}
                 <p
                   class="product__sku no-js-hidden{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}{% if product.selected_or_first_available_variant.sku.size == 0 %} visibility-hidden{% endif %}"
@@ -752,7 +745,7 @@
         {
           "type": "checkbox",
           "id": "show_dynamic_checkout",
-          "default": true,
+          "default": false,
           "label": "t:sections.featured-product.blocks.buy_buttons.settings.show_dynamic_checkout.label",
           "info": "t:sections.featured-product.blocks.buy_buttons.settings.show_dynamic_checkout.info"
         }
