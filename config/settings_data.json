@@ -147,7 +147,7 @@
           "logo": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
           "logo_width": 60,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "main-menu-1",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
