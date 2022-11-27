@@ -124,7 +124,11 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "large",
+    "checkout_body_background_color": "#fefefe",
     "checkout_sidebar_background_color": "#f3f3f3",
+    "checkout_accent_color": "#30b59d",
+    "checkout_button_color": "#30b59d",
+    "checkout_error_color": "#c553c9",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
