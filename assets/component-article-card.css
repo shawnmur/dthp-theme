@@ -88,6 +88,10 @@
   }
 }
 
+.article-card .card_media img {
+    object-fit: cover !important;
+}
+
 .article-card__image--small .ratio::before {
   padding-bottom: 11rem;
 }
