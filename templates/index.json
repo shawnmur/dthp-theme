@@ -1,5 +1,59 @@
 {
   "sections": {
+    "cde6bc77-0002-43f3-9ea4-f3b99d17d88e": {
+      "type": "collection-list",
+      "blocks": {
+        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "prints"
+          }
+        },
+        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cards-1"
+          }
+        },
+        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "stickers"
+          }
+        },
+        "f2b4d380-6ddd-473a-a79c-4b45aeb8affe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "originals"
+          }
+        },
+        "ca3842ad-0681-4790-8575-b5951a3a015e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "small-originals"
+          }
+        }
+      },
+      "block_order": [
+        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-0",
+        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-1",
+        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-2",
+        "f2b4d380-6ddd-473a-a79c-4b45aeb8affe",
+        "ca3842ad-0681-4790-8575-b5951a3a015e"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-2",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "0c19f1e1-6457-4034-9830-52c70ed77e40": {
       "type": "slideshow",
       "blocks": {
@@ -90,60 +144,6 @@
         "change_slides_speed": 5,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "cde6bc77-0002-43f3-9ea4-f3b99d17d88e": {
-      "type": "collection-list",
-      "blocks": {
-        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "prints"
-          }
-        },
-        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cards-1"
-          }
-        },
-        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "stickers"
-          }
-        },
-        "f2b4d380-6ddd-473a-a79c-4b45aeb8affe": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "originals"
-          }
-        },
-        "ca3842ad-0681-4790-8575-b5951a3a015e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "small-originals"
-          }
-        }
-      },
-      "block_order": [
-        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-0",
-        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-1",
-        "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-2",
-        "f2b4d380-6ddd-473a-a79c-4b45aeb8affe",
-        "ca3842ad-0681-4790-8575-b5951a3a015e"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "background-2",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "b326f4b6-5354-4579-82fb-89b055bc4672": {
@@ -356,8 +356,8 @@
     }
   },
   "order": [
-    "0c19f1e1-6457-4034-9830-52c70ed77e40",
     "cde6bc77-0002-43f3-9ea4-f3b99d17d88e",
+    "0c19f1e1-6457-4034-9830-52c70ed77e40",
     "b326f4b6-5354-4579-82fb-89b055bc4672",
     "fd39dcb2-109b-4de9-90a1-f875153d3e73",
     "e46f6320-0849-4239-b658-e41031be363c",
