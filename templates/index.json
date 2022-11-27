@@ -54,12 +54,30 @@
             "text_alignment_mobile": "center"
           }
         },
+        "3b0fadb4-b041-4576-8d17-69998138fc8a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20220929-AA3A9487.jpg",
+            "heading": "Do You Also Paint?",
+            "heading_size": "h2",
+            "subheading": "Painting is such a creative way to enjoy the mountains. If you don't paint, you should!",
+            "button_label": "About My Palette",
+            "link": "shopify:\/\/products\/drawn-to-high-places-palette",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--15954058281121__0c19f1e1-6457-4034-9830-52c70ed77e40-1669579152815f882d-1": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/20200726-IMG_2650.jpg",
             "heading": "Bring Home A Print",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "Fill your walls instead of your pack with prints. My prints are printed on archival paper and match the original work's color as closely as possible.",
             "button_label": "Find A Print You Love",
             "link": "shopify:\/\/collections\/prints",
@@ -93,6 +111,7 @@
       },
       "block_order": [
         "template--15954058281121__0c19f1e1-6457-4034-9830-52c70ed77e40-1669579152815f882d-0",
+        "3b0fadb4-b041-4576-8d17-69998138fc8a",
         "template--15954058281121__0c19f1e1-6457-4034-9830-52c70ed77e40-1669579152815f882d-1",
         "e3235c4e-8371-49ec-8454-83a82a94a84f"
       ],
