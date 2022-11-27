@@ -116,8 +116,10 @@
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
-    "predictive_search_show_price": false,
-    "currency_code_enabled": true,
+    "predictive_search_show_price": true,
+    "favicon": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
+    "currency_code_enabled": false,
+    "cart_drawer_collection": "prints",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
