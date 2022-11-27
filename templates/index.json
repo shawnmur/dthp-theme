@@ -6,20 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Drawn To High Places<\/p>",
+            "heading": "<p>DRAWN TO HIGH PLACES<\/p>",
             "heading_size": "h2"
           }
         },
-        "text": {
-          "type": "text",
+        "74bbaa0b-4d35-44b9-9754-8e9806ba578a": {
+          "type": "caption",
           "settings": {
-            "text": "<p>I'm Nikki Frumkin, an artist and alpinist in Seattle, Washington.<\/p>"
+            "caption": "Nikki Frumkin",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "74bbaa0b-4d35-44b9-9754-8e9806ba578a"
       ],
       "settings": {
         "desktop_content_position": "center",
