@@ -39,14 +39,14 @@
         "template--15954058281121__0c19f1e1-6457-4034-9830-52c70ed77e40-1669579152815f882d-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20190803-IMG_0038.jpg",
+            "image": "shopify:\/\/shop_images\/20220805-AA3A0832.jpg",
             "heading": "Drawn To High Places",
             "heading_size": "h2",
             "subheading": "Original art, painted in the wilderness on mountain adventures.",
             "button_label": "Available Now",
             "link": "shopify:\/\/collections\/originals",
             "button_style_secondary": false,
-            "box_align": "top-right",
+            "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
