@@ -148,33 +148,35 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "86ea40c7-ca0b-4fd5-be61-90a9af44a8de": {
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "rainier-at-sunrise-1",
+            "second_image": false
+          }
+        },
+        "f71658f3-9ef8-49d5-851e-a4d31cc08115": {
+          "type": "product",
+          "settings": {
+            "product": "bear-pair",
+            "second_image": true
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "all-the-stickers",
             "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "86ea40c7-ca0b-4fd5-be61-90a9af44a8de",
+        "f71658f3-9ef8-49d5-851e-a4d31cc08115",
+        "product"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "My Favorite Stickers",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
