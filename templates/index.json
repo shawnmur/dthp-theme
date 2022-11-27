@@ -6,20 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Drawn To High Places<\/p>",
+            "heading": "<p>DRAWN TO HIGH PLACES<\/p>",
             "heading_size": "h2"
           }
         },
-        "text": {
-          "type": "text",
+        "74bbaa0b-4d35-44b9-9754-8e9806ba578a": {
+          "type": "caption",
           "settings": {
-            "text": "<p>I'm Nikki Frumkin, an artist and alpinist in Seattle, Washington.<\/p>"
+            "caption": "Nikki Frumkin",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "74bbaa0b-4d35-44b9-9754-8e9806ba578a"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -145,43 +147,46 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
+    "d03fdcfe-3462-4e14-a8b6-3cc632beba45": {
+      "type": "image-with-text",
       "blocks": {
-        "86ea40c7-ca0b-4fd5-be61-90a9af44a8de": {
-          "type": "product",
+        "template--15954058281121__d03fdcfe-3462-4e14-a8b6-3cc632beba45-1669525187d72cc1d5-0": {
+          "type": "heading",
           "settings": {
-            "product": "rainier-at-sunrise-1",
-            "second_image": false
+            "heading": "Original Art",
+            "heading_size": "h2"
           }
         },
-        "f71658f3-9ef8-49d5-851e-a4d31cc08115": {
-          "type": "product",
+        "template--15954058281121__d03fdcfe-3462-4e14-a8b6-3cc632beba45-1669525187d72cc1d5-1": {
+          "type": "text",
           "settings": {
-            "product": "bear-pair",
-            "second_image": true
+            "text": "<p>My paper and watercolors come with me on my human powered adventures, small paper tucked into my pocket on big adventures or enormous sheets strapped to the outside of my pack like a sail. I am often painting from summits, ridges or alpine lakes. <\/p><p>There is magic in painting in these wild places, in capturing the light, energy and movement of a place.<\/p>",
+            "text_style": "body"
           }
         },
-        "product": {
-          "type": "product",
+        "template--15954058281121__d03fdcfe-3462-4e14-a8b6-3cc632beba45-1669525187d72cc1d5-2": {
+          "type": "button",
           "settings": {
-            "product": "all-the-stickers",
-            "second_image": false
+            "button_label": "View All",
+            "button_link": "shopify:\/\/collections\/originals"
           }
         }
       },
       "block_order": [
-        "86ea40c7-ca0b-4fd5-be61-90a9af44a8de",
-        "f71658f3-9ef8-49d5-851e-a4d31cc08115",
-        "product"
+        "template--15954058281121__d03fdcfe-3462-4e14-a8b6-3cc632beba45-1669525187d72cc1d5-0",
+        "template--15954058281121__d03fdcfe-3462-4e14-a8b6-3cc632beba45-1669525187d72cc1d5-1",
+        "template--15954058281121__d03fdcfe-3462-4e14-a8b6-3cc632beba45-1669525187d72cc1d5-2"
       ],
       "settings": {
-        "heading": "My Favorite Stickers",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
+        "image": "shopify:\/\/shop_images\/photo_2019-06-04_13-42-11.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -189,7 +194,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Original Paintings",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -212,6 +217,33 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
+    },
+    "1e83f786-89d1-4778-8993-e5f745ec8400": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Small Originals",
+        "heading_size": "h2",
+        "description": "<p>Most of these originals were painted in the wilderness. While they might be small, they are stunning in a frame. <\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "small-originals",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -219,7 +251,8 @@
     "cde6bc77-0002-43f3-9ea4-f3b99d17d88e",
     "b326f4b6-5354-4579-82fb-89b055bc4672",
     "fd39dcb2-109b-4de9-90a1-f875153d3e73",
-    "collage",
-    "featured_collection"
+    "d03fdcfe-3462-4e14-a8b6-3cc632beba45",
+    "featured_collection",
+    "1e83f786-89d1-4778-8993-e5f745ec8400"
   ]
 }

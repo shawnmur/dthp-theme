@@ -42,6 +42,15 @@
           "settings": {
           }
         },
+        "collapsible-row-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Suggestions",
+            "icon": "heart",
+            "content": "",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -57,6 +66,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "collapsible-row-3",
         "share"
       ],
       "settings": {
@@ -89,8 +99,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "",
-            "text": "",
+            "title": "About My Prints",
+            "text": "<p>My prints are giclée printed, a type of printing process that uses archival pigments that reproduce the tones and hues of the original painting. It is a standard for museum quality printing and will last 100+ years.<\/p>",
             "link_label": "",
             "link": ""
           }

@@ -40,7 +40,7 @@
     "inputs_shadow_horizontal_offset": 0,
     "inputs_shadow_vertical_offset": 4,
     "inputs_shadow_blur": 5,
-    "card_style": "standard",
+    "card_style": "card",
     "card_image_padding": 4,
     "card_text_alignment": "center",
     "card_color_scheme": "background-1",
@@ -147,7 +147,7 @@
           "logo": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
           "logo_width": 60,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "main-menu-1",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
@@ -159,42 +159,14 @@
       },
       "footer": {
         "type": "footer",
-        "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Info",
-              "menu": "footer"
-            }
-          },
-          "footer-2": {
-            "type": "text",
-            "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-            }
-          }
-        },
-        "block_order": [
-          "footer-0",
-          "footer-1",
-          "footer-2"
-        ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "Sign Up For Email Updates",
           "show_social": true,
-          "enable_country_selector": true,
-          "enable_language_selector": true,
-          "payment_enable": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false,
           "margin_top": 48,
           "padding_top": 36,
           "padding_bottom": 36
