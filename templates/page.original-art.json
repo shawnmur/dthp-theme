@@ -1,5 +1,103 @@
 {
   "sections": {
+    "2a137034-b976-49c4-b96f-a654001023de": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15954093605025__2a137034-b976-49c4-b96f-a654001023de-16695267672c2a3515-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Original Art",
+            "heading_size": "h1"
+          }
+        },
+        "template--15954093605025__2a137034-b976-49c4-b96f-a654001023de-16695267672c2a3515-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>My paper and watercolors come with me on my human powered adventures, small paper tucked into my pocket on big adventures or enormous sheets strapped to the outside of my pack like a sail. I am often painting from summits, ridges or alpine lakes. <\/p><p>There is magic in painting in these wild places, in capturing the light, energy and movement of a place.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15954093605025__2a137034-b976-49c4-b96f-a654001023de-16695267672c2a3515-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All",
+            "button_link": "shopify:\/\/collections\/originals"
+          }
+        }
+      },
+      "block_order": [
+        "template--15954093605025__2a137034-b976-49c4-b96f-a654001023de-16695267672c2a3515-0",
+        "template--15954093605025__2a137034-b976-49c4-b96f-a654001023de-16695267672c2a3515-1",
+        "template--15954093605025__2a137034-b976-49c4-b96f-a654001023de-16695267672c2a3515-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/photo_2019-06-04_13-42-11.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "79f58ca9-8e26-4646-9325-59ac5d44cd29": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "originals",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cc8165ab-3771-4713-b10e-450896051cb9": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Small Originials",
+        "heading_size": "h2",
+        "description": "<p>Most of these originals were painted in the wilderness. While they might be small, they are stunning in a frame.<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "small-originals",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -9,6 +107,9 @@
     }
   },
   "order": [
+    "2a137034-b976-49c4-b96f-a654001023de",
+    "79f58ca9-8e26-4646-9325-59ac5d44cd29",
+    "cc8165ab-3771-4713-b10e-450896051cb9",
     "main"
   ]
 }
