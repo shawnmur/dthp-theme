@@ -1,38 +1,5 @@
 {
   "sections": {
-    "rich_text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>DRAWN TO HIGH PLACES<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "74bbaa0b-4d35-44b9-9754-8e9806ba578a": {
-          "type": "caption",
-          "settings": {
-            "caption": "Nikki Frumkin",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "74bbaa0b-4d35-44b9-9754-8e9806ba578a"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "0c19f1e1-6457-4034-9830-52c70ed77e40": {
       "type": "slideshow",
       "blocks": {
@@ -389,7 +356,6 @@
     }
   },
   "order": [
-    "rich_text",
     "0c19f1e1-6457-4034-9830-52c70ed77e40",
     "cde6bc77-0002-43f3-9ea4-f3b99d17d88e",
     "b326f4b6-5354-4579-82fb-89b055bc4672",
