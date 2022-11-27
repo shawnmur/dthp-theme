@@ -2,7 +2,7 @@
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "{{ shop.brand.colors.primary[0].background }}",
-    "gradient_accent_1": "linear-gradient(46deg, rgba(48, 181, 157, 1) 13%, rgba(48, 181, 157, 0.56) 86%)",
+    "gradient_accent_1": "linear-gradient(46deg, rgba(48, 181, 157, 1) 13%, rgba(48, 181, 157, 1) 86%)",
     "colors_accent_2": "{{ shop.brand.colors.secondary[0].background }}",
     "gradient_accent_2": "",
     "colors_text": "#121212",
@@ -127,9 +127,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Free shipping in the US!",
               "text_alignment": "center",
-              "color_scheme": "background-1",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
