@@ -147,67 +147,53 @@
         "padding_bottom": 36
       }
     },
-    "33fe05e2-6bd0-4b4b-85a4-4668eff17e30": {
-      "type": "featured-product",
+    "e46f6320-0849-4239-b658-e41031be363c": {
+      "type": "image-banner",
       "blocks": {
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-0": {
-          "type": "text",
+        "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-0": {
+          "type": "heading",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-1": {
-          "type": "title",
-          "settings": {
+            "heading": "Drawn To High Places Palette",
             "heading_size": "h2"
           }
         },
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-2": {
-          "type": "price",
+        "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-1": {
+          "type": "text",
           "settings": {
+            "text": "I love the Art Toolkit palettes and use them on all my adventures, so I was really excited to partner with Art Toolkit to create a limited-edition palette featuring my art!",
+            "text_style": "body"
           }
         },
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-3": {
-          "type": "variant_picker",
+        "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-2": {
+          "type": "buttons",
           "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-6": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "button_label_1": "Get Your Palette!",
+            "button_link_1": "shopify:\/\/products\/drawn-to-high-places-palette",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-0",
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-1",
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-2",
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-3",
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-5",
-        "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-6"
+        "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-0",
+        "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-1",
+        "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-2"
       ],
       "settings": {
-        "product": "drawn-to-high-places-palette",
-        "color_scheme": "background-1",
-        "secondary_background": true,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "image": "shopify:\/\/shop_images\/20220929-AA3A9533_Large_aa8da813-0afb-4908-b1b7-0a86f223ba07.jpg",
+        "image_2": "shopify:\/\/shop_images\/dthp-palette-pink-contents-2_1.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "top-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "d03fdcfe-3462-4e14-a8b6-3cc632beba45": {
@@ -314,7 +300,7 @@
     "cde6bc77-0002-43f3-9ea4-f3b99d17d88e",
     "b326f4b6-5354-4579-82fb-89b055bc4672",
     "fd39dcb2-109b-4de9-90a1-f875153d3e73",
-    "33fe05e2-6bd0-4b4b-85a4-4668eff17e30",
+    "e46f6320-0849-4239-b658-e41031be363c",
     "d03fdcfe-3462-4e14-a8b6-3cc632beba45",
     "featured_collection",
     "1e83f786-89d1-4778-8993-e5f745ec8400"
