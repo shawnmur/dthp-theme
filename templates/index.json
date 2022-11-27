@@ -135,7 +135,7 @@
       "settings": {
         "heading": "Upcoming Shows",
         "heading_size": "h2",
-        "blog": "exhibitions",
+        "blog": "events",
         "post_limit": 4,
         "columns_desktop": 4,
         "color_scheme": "background-2",
