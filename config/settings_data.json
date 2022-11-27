@@ -120,6 +120,7 @@
     "favicon": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
     "currency_code_enabled": false,
     "cart_drawer_collection": "prints",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
