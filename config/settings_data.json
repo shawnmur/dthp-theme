@@ -121,8 +121,10 @@
     "currency_code_enabled": false,
     "cart_drawer_collection": "prints",
     "checkout_header_image": "shopify:\/\/shop_images\/Checkout_Banner_9475641c-ae74-49a9-ba30-0efe2fc20c3d.jpg",
-    "checkout_logo_position": "center",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
+    "checkout_logo_position": "left",
     "checkout_logo_size": "large",
+    "checkout_sidebar_background_color": "#f3f3f3",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
