@@ -182,7 +182,7 @@
         "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-5": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "template--15954058281121__33fe05e2-6bd0-4b4b-85a4-4668eff17e30-1669527674eda7bc3b-6": {
