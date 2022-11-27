@@ -39,13 +39,14 @@
         "template--15954058281121__0c19f1e1-6457-4034-9830-52c70ed77e40-1669579152815f882d-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/20190803-IMG_0038.jpg",
             "heading": "Drawn To High Places",
             "heading_size": "h2",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "",
+            "subheading": "Original Mountain Art",
+            "button_label": "View",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
+            "box_align": "top-right",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
@@ -56,13 +57,14 @@
         "template--15954058281121__0c19f1e1-6457-4034-9830-52c70ed77e40-1669579152815f882d-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/20200726-IMG_2650.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "bottom-right",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
