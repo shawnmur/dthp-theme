@@ -42,6 +42,25 @@
           "settings": {
           }
         },
+        "7c485e01-d3c8-4f25-83df-164ec2757b05": {
+          "type": "text",
+          "settings": {
+            "text": "Buy 3 or more individual stickers to get 30% off the individual stickers in your order. Use code \"sticker30\" at checkout.",
+            "text_style": "body"
+          }
+        },
+        "8604560a-6410-4775-be17-e63ff3eba25d": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "washing",
+            "heading_1": "Dishwasher Safe",
+            "icon_2": "snowflake",
+            "heading_2": "Weather Resistant",
+            "icon_3": "none",
+            "heading_3": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -57,11 +76,13 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "7c485e01-d3c8-4f25-83df-164ec2757b05",
+        "8604560a-6410-4775-be17-e63ff3eba25d",
         "share"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": false,
         "media_fit": "contain",
         "gallery_layout": "stacked",
@@ -89,8 +110,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Care Suggestions",
-            "text": "<p>Original art will keep it's brilliant colors and details for decades with proper framing. Consider a frame with a UV blocking glass or acrylic with an acid free mat to ensure your original painting's colors remain as vibrant in a few decades as it does today. <\/p>",
+            "title": "About My Stickers",
+            "text": "<p>Stickers are ultra-durable and weather resistant. Stick this on your car, helmet, bear can, water bottle, growler, laptop, etc!<\/p>",
             "link_label": "",
             "link": ""
           }

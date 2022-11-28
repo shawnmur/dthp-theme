@@ -61,7 +61,7 @@
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": false,
         "media_fit": "contain",
         "gallery_layout": "stacked",
@@ -89,8 +89,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "Care Suggestions",
-            "text": "<p>Original art will keep it's brilliant colors and details for decades with proper framing. Consider a frame with a UV blocking glass or acrylic with an acid free mat to ensure your original painting's colors remain as vibrant in a few decades as it does today. <\/p>",
+            "title": "About My Cards",
+            "text": "<p>7 3\/8\" x 5 1\/2\" large cards come with a white envelope ready to mail! My cards are giclée printed on heavyweight paper. These cards are perfect for sending a note to somebody special!<\/p>",
             "link_label": "",
             "link": ""
           }
