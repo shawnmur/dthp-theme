@@ -42,15 +42,6 @@
           "settings": {
           }
         },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Suggestions",
-            "icon": "heart",
-            "content": "<p>Consider a frame with a UV blocking glass or acrylic with an acid free mat to ensure it’s colors remain as vibrant in a few decades as it does today.<\/p>",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -66,7 +57,6 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-3",
         "share"
       ],
       "settings": {
@@ -99,8 +89,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "About My Prints",
-            "text": "<p>My prints are giclée printed, a type of printing process that uses archival pigments that reproduce the tones and hues of the original painting. It is a standard for museum quality printing and will last 100+ years.<\/p>",
+            "title": "About My Cards",
+            "text": "<p>7 3\/8\" x 5 1\/2\" large cards come with a white envelope ready to mail! My cards are giclée printed on heavyweight paper. These cards are perfect for sending a note to somebody special!<\/p>",
             "link_label": "",
             "link": ""
           }
