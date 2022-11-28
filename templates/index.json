@@ -176,6 +176,7 @@
         },
         "78c43519-77b5-46e1-9e1e-cbe502089c9b": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "fun-stuff"
           }
