@@ -150,8 +150,15 @@
             "collection": "prints"
           }
         },
+        "ca3842ad-0681-4790-8575-b5951a3a015e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "small-originals"
+          }
+        },
         "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-1": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "cards-1"
           }
@@ -168,14 +175,9 @@
             "collection": "originals"
           }
         },
-        "ca3842ad-0681-4790-8575-b5951a3a015e": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "small-originals"
-          }
-        },
         "78c43519-77b5-46e1-9e1e-cbe502089c9b": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "fun-stuff"
           }
@@ -183,10 +185,10 @@
       },
       "block_order": [
         "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-0",
+        "ca3842ad-0681-4790-8575-b5951a3a015e",
         "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-1",
         "template--15954058281121__cde6bc77-0002-43f3-9ea4-f3b99d17d88e-16695208051592ab2e-2",
         "f2b4d380-6ddd-473a-a79c-4b45aeb8affe",
-        "ca3842ad-0681-4790-8575-b5951a3a015e",
         "78c43519-77b5-46e1-9e1e-cbe502089c9b"
       ],
       "settings": {
