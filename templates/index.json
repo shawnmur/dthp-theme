@@ -35,14 +35,14 @@
         "template--15954058281121__cc3c910d-bc13-426d-b48d-234c3397b6b4-166961455377124773-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/20220805-AA3A0832-2.jpg",
+        "image": "shopify:\/\/shop_images\/20220805-AA3A0832.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "small",
-        "adapt_height_first_image": false,
+        "image_height": "large",
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
