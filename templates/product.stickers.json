@@ -42,13 +42,23 @@
           "settings": {
           }
         },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
+        "7c485e01-d3c8-4f25-83df-164ec2757b05": {
+          "type": "text",
           "settings": {
-            "heading": "Care Suggestions",
-            "icon": "heart",
-            "content": "<p>Consider a frame with a UV blocking glass or acrylic with an acid free mat to ensure it’s colors remain as vibrant in a few decades as it does today.<\/p>",
-            "page": ""
+            "text": "Buy 3 or more individual stickers to get 30% off the individual stickers in your order. Use code \"sticker30\" at checkout.",
+            "text_style": "body"
+          }
+        },
+        "8604560a-6410-4775-be17-e63ff3eba25d": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "washing",
+            "heading_1": "Dishwasher Safe",
+            "icon_2": "snowflake",
+            "heading_2": "Weather Resistant",
+            "icon_3": "none",
+            "heading_3": ""
           }
         },
         "share": {
@@ -66,7 +76,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "collapsible-row-3",
+        "7c485e01-d3c8-4f25-83df-164ec2757b05",
+        "8604560a-6410-4775-be17-e63ff3eba25d",
         "share"
       ],
       "settings": {
@@ -99,8 +110,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "title": "About My Prints",
-            "text": "<p>My prints are giclée printed, a type of printing process that uses archival pigments that reproduce the tones and hues of the original painting. It is a standard for museum quality printing and will last 100+ years.<\/p>",
+            "title": "About My Stickers",
+            "text": "<p>Stickers are ultra-durable and weather resistant. Stick this on your car, helmet, bear can, water bottle, growler, laptop, etc!<\/p>",
             "link_label": "",
             "link": ""
           }
