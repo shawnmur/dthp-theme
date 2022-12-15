@@ -206,6 +206,7 @@
     },
     "b326f4b6-5354-4579-82fb-89b055bc4672": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--15954058281121__b326f4b6-5354-4579-82fb-89b055bc4672-1669521651032f7577-0": {
           "type": "heading",
@@ -224,7 +225,7 @@
         "template--15954058281121__b326f4b6-5354-4579-82fb-89b055bc4672-1669521651032f7577-2": {
           "type": "button",
           "settings": {
-            "button_label": "Pre Order!",
+            "button_label": "Get One!",
             "button_link": "shopify:\/\/products\/2023-drawn-to-high-places-calendar"
           }
         }
@@ -246,6 +247,50 @@
         "mobile_content_alignment": "left",
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "946c4d2f-561f-4226-9d29-ad3b65863105": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Drawn To High Places x Art ToolKit Palette",
+            "heading_size": "h2"
+          }
+        },
+        "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I love the Art Toolkit palettes and use them on all my adventures!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/products\/drawn-to-high-places-palette"
+          }
+        }
+      },
+      "block_order": [
+        "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-0",
+        "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-1",
+        "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/20220929-AA3A9533_Large_aa8da813-0afb-4908-b1b7-0a86f223ba07.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "fd39dcb2-109b-4de9-90a1-f875153d3e73": {
@@ -419,6 +464,7 @@
     "0c19f1e1-6457-4034-9830-52c70ed77e40",
     "cde6bc77-0002-43f3-9ea4-f3b99d17d88e",
     "b326f4b6-5354-4579-82fb-89b055bc4672",
+    "946c4d2f-561f-4226-9d29-ad3b65863105",
     "fd39dcb2-109b-4de9-90a1-f875153d3e73",
     "e46f6320-0849-4239-b658-e41031be363c",
     "d03fdcfe-3462-4e14-a8b6-3cc632beba45",
