@@ -251,6 +251,7 @@
     },
     "946c4d2f-561f-4226-9d29-ad3b65863105": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-0": {
           "type": "heading",
@@ -269,7 +270,7 @@
         "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-2": {
           "type": "button",
           "settings": {
-            "button_label": "Learn More",
+            "button_label": "Take A Look",
             "button_link": "shopify:\/\/products\/drawn-to-high-places-palette"
           }
         }
