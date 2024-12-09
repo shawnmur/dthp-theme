@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
@@ -108,8 +117,8 @@
     "social_twitter_link": "",
     "social_facebook_link": "",
     "social_pinterest_link": "",
-    "social_instagram_link": "http:\/\/instagram.com\/drawntohighplaces",
-    "social_tiktok_link": "https:\/\/tiktok.com\/@drawntohighplaces",
+    "social_instagram_link": "http://instagram.com/drawntohighplaces",
+    "social_tiktok_link": "https://tiktok.com/@drawntohighplaces",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
     "social_youtube_link": "",
@@ -117,12 +126,12 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": true,
-    "favicon": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
+    "favicon": "shopify://shop_images/Drawn_To_High_Places_Logos_20170714_-02.png",
     "currency_code_enabled": false,
     "show_cart_note": true,
     "cart_drawer_collection": "prints",
-    "checkout_header_image": "shopify:\/\/shop_images\/Checkout_Banner_9475641c-ae74-49a9-ba30-0efe2fc20c3d.jpg",
-    "checkout_logo_image": "shopify:\/\/shop_images\/favicon_bbf6e295-25d0-4f81-9121-f31ad467017e.png",
+    "checkout_header_image": "shopify://shop_images/Checkout_Banner_9475641c-ae74-49a9-ba30-0efe2fc20c3d.jpg",
+    "checkout_logo_image": "shopify://shop_images/favicon_bbf6e295-25d0-4f81-9121-f31ad467017e.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#fefefe",
@@ -137,7 +146,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "free shipping in the us",
+              "text": "Free shipping in the US. 30% off 3 or more single stickers with code sticker30",
               "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
@@ -147,14 +156,13 @@
         "block_order": [
           "announcement-bar-0"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/Drawn_To_High_Places_Logos_20170714_-02.png",
+          "logo": "shopify://shop_images/Drawn_To_High_Places_Logos_20170714_-02.png",
           "logo_width": 60,
           "logo_position": "middle-left",
           "menu": "main-menu-1",
@@ -196,9 +204,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ]
+    "content_for_index": []
   },
   "presets": {
     "Default": {
@@ -336,8 +342,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -372,7 +377,7 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
