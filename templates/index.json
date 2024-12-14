@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "cc3c910d-bc13-426d-b48d-234c3397b6b4": {
@@ -35,7 +44,7 @@
         "template--15954058281121__cc3c910d-bc13-426d-b48d-234c3397b6b4-166961455377124773-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/20220805-AA3A0832-4.jpg",
+        "image": "shopify://shop_images/20220809-AA3A5448_copy.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
@@ -50,17 +59,16 @@
     },
     "0c19f1e1-6457-4034-9830-52c70ed77e40": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--15954058281121__0c19f1e1-6457-4034-9830-52c70ed77e40-1669579152815f882d-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20220805-AA3A0832.jpg",
+            "image": "shopify://shop_images/20220805-AA3A0832.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "Original art, painted in the wilderness on mountain adventures.",
             "button_label": "Available Now",
-            "link": "shopify:\/\/collections\/originals",
+            "link": "shopify://collections/originals",
             "button_style_secondary": true,
             "box_align": "bottom-left",
             "show_text_box": true,
@@ -73,12 +81,12 @@
         "template--15954058281121__0c19f1e1-6457-4034-9830-52c70ed77e40-1669579152815f882d-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20200726-IMG_2650.jpg",
+            "image": "shopify://shop_images/20200726-IMG_2650.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "Fill your walls instead of your pack with prints. My prints are printed on archival paper and match the original work's color as closely as possible.",
             "button_label": "Find A Print You Love",
-            "link": "shopify:\/\/collections\/prints",
+            "link": "shopify://collections/prints",
             "button_style_secondary": true,
             "box_align": "bottom-right",
             "show_text_box": true,
@@ -91,12 +99,12 @@
         "3b0fadb4-b041-4576-8d17-69998138fc8a": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20220929-AA3A9487.jpg",
+            "image": "shopify://shop_images/20220929-AA3A9487.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "Painting is such a creative way to enjoy the mountains. If you don't paint, you should!",
             "button_label": "About My Palette",
-            "link": "shopify:\/\/products\/drawn-to-high-places-palette",
+            "link": "shopify://products/drawn-to-high-places-palette",
             "button_style_secondary": true,
             "box_align": "top-left",
             "show_text_box": true,
@@ -109,12 +117,12 @@
         "e3235c4e-8371-49ec-8454-83a82a94a84f": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20221017-AA3A3711.jpg",
+            "image": "shopify://shop_images/20221017-AA3A3711.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "Join me at one of these upcoming events and shows to see my work in person!",
             "button_label": "Upcoming Events",
-            "link": "shopify:\/\/blogs\/events",
+            "link": "shopify://blogs/events",
             "button_style_secondary": true,
             "box_align": "top-left",
             "show_text_box": true,
@@ -131,6 +139,7 @@
         "3b0fadb4-b041-4576-8d17-69998138fc8a",
         "e3235c4e-8371-49ec-8454-83a82a94a84f"
       ],
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "small",
@@ -206,7 +215,6 @@
     },
     "b326f4b6-5354-4579-82fb-89b055bc4672": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--15954058281121__b326f4b6-5354-4579-82fb-89b055bc4672-1669521651032f7577-0": {
           "type": "heading",
@@ -218,7 +226,7 @@
         "template--15954058281121__b326f4b6-5354-4579-82fb-89b055bc4672-1669521651032f7577-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The calendar is one of my favorite things I make all year. It feels so loving to go through everything I’ve made and choose paintings for each month.<\/p>",
+            "text": "<p>The calendar is one of my favorite things I make all year. It feels so loving to go through everything I’ve made and choose paintings for each month.</p>",
             "text_style": "subtitle"
           }
         },
@@ -226,7 +234,7 @@
           "type": "button",
           "settings": {
             "button_label": "Get One!",
-            "button_link": "shopify:\/\/products\/2023-drawn-to-high-places-calendar"
+            "button_link": "shopify://products/2023-drawn-to-high-places-calendar"
           }
         }
       },
@@ -235,8 +243,9 @@
         "template--15954058281121__b326f4b6-5354-4579-82fb-89b055bc4672-1669521651032f7577-1",
         "template--15954058281121__b326f4b6-5354-4579-82fb-89b055bc4672-1669521651032f7577-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/2023_Calendar.jpg",
+        "image": "shopify://shop_images/2023_Calendar.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -251,7 +260,6 @@
     },
     "946c4d2f-561f-4226-9d29-ad3b65863105": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-0": {
           "type": "heading",
@@ -263,7 +271,7 @@
         "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I love the Art Toolkit palettes and use them on all my adventures!<\/p>",
+            "text": "<p>I love the Art Toolkit palettes and use them on all my adventures!</p>",
             "text_style": "body"
           }
         },
@@ -271,7 +279,7 @@
           "type": "button",
           "settings": {
             "button_label": "Take A Look",
-            "button_link": "shopify:\/\/products\/drawn-to-high-places-palette"
+            "button_link": "shopify://products/drawn-to-high-places-palette"
           }
         }
       },
@@ -280,8 +288,9 @@
         "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-1",
         "template--15954058281121__946c4d2f-561f-4226-9d29-ad3b65863105-1671066230fcc43b91-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/20220929-AA3A9533_Large_aa8da813-0afb-4908-b1b7-0a86f223ba07.jpg",
+        "image": "shopify://shop_images/20220929-AA3A9533_Large_aa8da813-0afb-4908-b1b7-0a86f223ba07.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -313,7 +322,6 @@
     },
     "e46f6320-0849-4239-b658-e41031be363c": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-0": {
           "type": "heading",
@@ -333,7 +341,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Get Your Palette!",
-            "button_link_1": "shopify:\/\/products\/drawn-to-high-places-palette",
+            "button_link_1": "shopify://products/drawn-to-high-places-palette",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -346,9 +354,10 @@
         "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-1",
         "template--15954058281121__e46f6320-0849-4239-b658-e41031be363c-1669527674f9145aca-2"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/20220929-AA3A9533_Large_aa8da813-0afb-4908-b1b7-0a86f223ba07.jpg",
-        "image_2": "shopify:\/\/shop_images\/dthp-palette-pink-contents-2_1.webp",
+        "image": "shopify://shop_images/20220929-AA3A9533_Large_aa8da813-0afb-4908-b1b7-0a86f223ba07.jpg",
+        "image_2": "shopify://shop_images/dthp-palette-pink-contents-2_1.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -374,7 +383,7 @@
         "template--15954058281121__d03fdcfe-3462-4e14-a8b6-3cc632beba45-1669525187d72cc1d5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>My paper and watercolors come with me on my human powered adventures, small paper tucked into my pocket on big adventures or enormous sheets strapped to the outside of my pack like a sail. I am often painting from summits, ridges or alpine lakes. <\/p><p>There is magic in painting in these wild places, in capturing the light, energy and movement of a place.<\/p>",
+            "text": "<p>My paper and watercolors come with me on my human powered adventures, small paper tucked into my pocket on big adventures or enormous sheets strapped to the outside of my pack like a sail. I am often painting from summits, ridges or alpine lakes. </p><p>There is magic in painting in these wild places, in capturing the light, energy and movement of a place.</p>",
             "text_style": "body"
           }
         },
@@ -382,7 +391,7 @@
           "type": "button",
           "settings": {
             "button_label": "View All",
-            "button_link": "shopify:\/\/collections\/originals"
+            "button_link": "shopify://collections/originals"
           }
         }
       },
@@ -392,7 +401,7 @@
         "template--15954058281121__d03fdcfe-3462-4e14-a8b6-3cc632beba45-1669525187d72cc1d5-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/photo_2019-06-04_13-42-11.jpg",
+        "image": "shopify://shop_images/photo_2019-06-04_13-42-11.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -437,7 +446,7 @@
       "settings": {
         "title": "Small Originals",
         "heading_size": "h2",
-        "description": "<p>Most of these originals were painted in the wilderness. While they might be small, they are stunning in a frame. <\/p>",
+        "description": "<p>Most of these originals were painted in the wilderness. While they might be small, they are stunning in a frame. </p>",
         "show_description": false,
         "description_style": "body",
         "collection": "small-originals",
