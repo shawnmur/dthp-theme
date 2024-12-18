@@ -146,7 +146,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Free shipping in the US. Orders placed by Dec 17 should arrive by Dec 25.",
+              "text": "Free shipping in the US. Orders placed by Dec 18 should arrive by Dec 25.",
               "text_alignment": "center",
               "color_scheme": "accent-1",
               "link": ""
