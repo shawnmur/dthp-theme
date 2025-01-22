@@ -325,7 +325,7 @@
         "button_X7beFH"
       ],
       "settings": {
-        "image": "shopify://shop_images/FullSizeRender_d0a68be2-b76d-4214-af30-21f28c20c019.jpg",
+        "image": "shopify://shop_images/470953236_18478465498037505_2638140271287927848_n.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -582,6 +582,54 @@
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "image_banner_NzGUXz": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_jGbc4r": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join us",
+            "heading_size": "h1"
+          }
+        },
+        "text_n3hGzU": {
+          "type": "text",
+          "settings": {
+            "text": "We are excited to go on a painting adventure with you!",
+            "text_style": "body"
+          }
+        },
+        "buttons_FM3fHW": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Reserve my spot",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_jGbc4r",
+        "text_n3hGzU",
+        "buttons_FM3fHW"
+      ],
+      "settings": {
+        "image_2": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -594,6 +642,7 @@
     "multicolumn_B6ktx4",
     "image_with_text_aVMVRB",
     "collapsible_content_9mAfg8",
-    "slideshow_n9eJBt"
+    "slideshow_n9eJBt",
+    "image_banner_NzGUXz"
   ]
 }
