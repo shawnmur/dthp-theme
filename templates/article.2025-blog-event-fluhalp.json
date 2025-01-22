@@ -50,6 +50,53 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_96tJwB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ccQWhi": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_iWU3Vb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Photography on this page is by Meghan Young</p>"
+          }
+        },
+        "button_EkcYVy": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ccQWhi",
+        "text_iWU3Vb",
+        "button_EkcYVy"
+      ],
+      "custom_css": [
+        "{font-size: 12px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_kcKBq6": {
       "type": "image-with-text",
       "blocks": {
@@ -63,7 +110,7 @@
         "text_TWQnJD": {
           "type": "text",
           "settings": {
-            "text": "<p>Spend four days painting outdoors with expert guidance from Nikki Frumkin in a small, supportive group. Connect with fellow artists and create beautiful work in a truly inspiring setting.</p><p>.</p><p>.</p><p><strong>Dates: </strong>August 9 – August 12, 2025</p><p><strong>Location: </strong>Switzerland, 2606 meters above sea level in the Suneegga-Blauherd-Rothorn area above Zermatt (with breathtaking Matterhorn views).</p>",
+            "text": "<h4>Spend four days painting outdoors with expert guidance from Nikki Frumkin in a small, supportive group. Connect with fellow artists and create artwork in a truly inspiring setting.</h4><h4><strong>Dates<br/></strong>August 9 – August 12, 2025</h4><h4><strong>Location<br/></strong>Switzerland, 2606 meters above sea level in the Suneegga-Blauherd-Rothorn area above Zermatt (with breathtaking Matterhorn views).</h4>",
             "text_style": "body"
           }
         }
@@ -130,7 +177,7 @@
         "text_dMydK4": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Your Retreat Experience</strong></h3><ul><li> Sunrise and sunset painting sessions</li><li>Hike alpine lakes and mountain trails in the Swiss Alps to paint plein air</li><li>Enjoy meals and relax with other artists in a cozy mountain setting.</li><li>Participate in daily painting demos and skill building sessions.</li><li>Enjoy uninterrupted plein air painting time</li><li>Explore the vast beauty of the area</li></ul><h3><strong>Watercolor Skills</strong></h3><ul><li>Practice plein air techniques to capture light, shadow, and atmosphere.</li><li>Practice with watercolor techniques for layering, color mixing, creating texture and more. </li><li>Engage with art prompts to practice seeing and representing the landscape.</li><li>Compose dynamic compositions.</li><li>Explore color to convey mood, depth, and a sense of place.</li><li>Develop your personal painting style.</li><li>Receive tailored feedback to enhance your skills.</li><li>Connect with and learn from fellow artists.</li><li>Leave with new friends and lots of art.</li></ul>",
+            "text": "<h4><strong>Your Retreat Experience</strong></h4><ul><li><h4> Sunrise and sunset painting sessions</h4></li><li><h4>Hike alpine lakes and mountain trails in the Swiss Alps to paint plein air</h4></li><li><h4>Enjoy meals and relax with other artists in a cozy mountain setting.</h4></li><li><h4>Participate in daily painting demos and skill building sessions.</h4></li><li><h4>Enjoy uninterrupted plein air painting time</h4></li><li><h4>Explore the vast beauty of the area</h4></li></ul><h4><strong>Watercolor Skills</strong></h4><ul><li><h4>Practice plein air techniques to capture light, shadow, and atmosphere.</h4></li><li><h4>Practice with watercolor techniques for layering, color mixing, creating texture and more. </h4></li><li><h4>Engage with art prompts to practice seeing and representing the landscape.</h4></li><li><h4>Compose dynamic compositions.</h4></li><li><h4>Explore color to convey mood, depth, and a sense of place.</h4></li><li><h4>Develop your personal painting style.</h4></li><li><h4>Receive tailored feedback to enhance your skills.</h4></li><li><h4>Connect with and learn from fellow artists.</h4></li><li><h4>Leave with new friends and lots of art.</h4></li></ul>",
             "text_style": "body"
           }
         }
@@ -166,7 +213,7 @@
         "text_cm4mgx": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Spend 4 days immersed in the breathtaking Swiss Alps during this plein air watercolor workshop.</strong> We will be situated in the middle of stunning views of the Matterhorn, alpine lakes, and dramatic mountain landscapes. This course focuses on the unique challenges and joys of painting outdoors. It is designed for intermediate painters, though adventurous beginners are welcome. </p><p>Led by professional watercolor artist Nikki Frumkin, you’ll learn to translate the everchanging light of dramatic alpine landscapes onto paper. Sessions will combine demonstrations, guided practice, art games, and personalized feedback to help you develop your skills and create plein air paintings that capture the beauty of your surroundings.</p>"
+            "text": "<h4><strong>Spend 4 days immersed in the breathtaking Swiss Alps during this plein air watercolor workshop.</strong> We will be situated in the middle of stunning views of the Matterhorn, alpine lakes, and dramatic mountain landscapes. This course focuses on the unique challenges and joys of painting outdoors. It is designed for intermediate painters, though adventurous beginners are welcome. </h4><h4>Led by professional watercolor artist Nikki Frumkin, you’ll learn to translate the everchanging light of dramatic alpine landscapes onto paper. Sessions will combine demonstrations, guided practice, art games, and personalized feedback to help you develop your skills and create plein air paintings that capture the beauty of your surroundings.</h4>"
           }
         },
         "button_jn4Adf": {
@@ -203,7 +250,7 @@
           "settings": {
             "heading": "Day 1: Arrival & Beginnings",
             "icon": "none",
-            "row_content": "<p>3:00 PM - 4:00 PM: Arrival & Check-in</p><p>4:00 PM - 5:00 PM: Welcome session and introduction and goal setting</p><p>5:00 PM - 6:00 PM: First outdoor painting session with guidance</p><p>6:30 PM: Group dinner and informal introductions</p><p>Evening: Free time </p>",
+            "row_content": "<h4>3:00 PM - 4:00 PM: Arrival & Check-in</h4><h4>4:00 PM - 5:00 PM: Welcome session, introductions, and goal setting</h4><h4>5:00 PM - 6:00 PM: First outdoor painting session!</h4><h4>6:30 PM: Group dinner and conversation</h4><h4>Evening: Free time</h4>",
             "page": ""
           }
         },
@@ -212,7 +259,7 @@
           "settings": {
             "heading": "Day 2: Techniques, Play, and Practice",
             "icon": "none",
-            "row_content": "<p>7:30 AM - 8:30 AM: Breakfast</p><p>8:30 AM - 11:00 AM: Morning painting session, techniques, games, capturing the feeling of a landscape</p><p>12:00-1:00 PM: Lunch Break</p><p>2:00 PM - 4:30 PM: Prompt for Uninterrupted Painting with Individual Feedback </p><p>6:30 PM - 7:30 PM: Group dinner and discussion</p>",
+            "row_content": "<h4>7:30 AM - 8:30 AM: Breakfast</h4><h4>8:30 AM - 11:00 AM: Morning painting session, techniques, games, capturing the feeling of a landscape</h4><h4>12:00-1:00 PM: Lunch Break</h4><h4>1:00 PM - 4:30 PM: Prompt for Uninterrupted Painting with Individual Feedback </h4><h4>6:30 PM - 7:30 PM: Group dinner and discussion</h4>",
             "page": ""
           }
         },
@@ -221,7 +268,7 @@
           "settings": {
             "heading": "Day 3: Painting the Alpine Landscape",
             "icon": "none",
-            "row_content": "<p>7:30 AM - 8:30 AM: Breakfast</p><p>8:30 AM - 2:00PM: Hike and Paint including prompts, demos and time for uninterrupted painting with individual Feedback </p><p>2:00PM-6:30PM: Free time</p><p>6:30 PM -7:30 PM: Group dinner<br/><br/>7:30- 9:00 PM: Sunset painting session</p><p> </p>",
+            "row_content": "<p>7:30 AM - 8:30 AM: Breakfast</p><p>8:30 AM - 2:00PM: Hike and Paint including prompts, demos and time for uninterrupted painting with individual Feedback </p><p>2:00PM-6:30PM: Free time to explore</p><p>6:30 PM -7:30 PM: Group dinner<br/><br/>7:30- 9:00 PM: Sunset painting session</p><p> </p>",
             "page": ""
           }
         },
@@ -263,7 +310,7 @@
           "type": "column",
           "settings": {
             "title": "Small Group Experience",
-            "text": "<p>This workshop is designed to provide personalized attention in an intimate, small-group setting. With limited spots available, you’ll receive tailored feedback and plenty of one on one time with Nikki. The small group size fosters meaningful connections with participating artists, creating a collaborative and inspiring environment for learning and growth.</p>",
+            "text": "<p>This workshop is designed to provide personalized attention in an small group setting. Limited spots available, so you will receive tailored feedback and plenty of one on one time. The small group size fosters meaningful connections with participating artists, creating a collaborative and inspiring environment for learning and growth.</p>",
             "link_label": "",
             "link": ""
           }
@@ -363,7 +410,7 @@
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.52.19_AM.jpg",
             "title": "Getting There",
-            "text": "<p>Our Berghaus is accessible only by foot. From Blauherd, it’s a 45-minute walk to the hut. The easy hike, offering beautiful Matterhorn views, takes you from Blauherd via the scenic Stellisee to our retreat location at the Berghaus.</p>",
+            "text": "<p>Our Berghaus is accessible only by foot. From Blauherd, it’s a 30-45 minute walk to the hut. The easy hike, offering beautiful Matterhorn views, takes you from Blauherd via the scenic Stellisee to our retreat location at the Berghaus.</p>",
             "link_label": "",
             "link": ""
           }
@@ -383,7 +430,7 @@
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.34.55_PM.jpg",
             "title": "The Surroundings",
-            "text": "<p>Our retreat location is surrounded by stunning views of mountains, the Matterhorn and alpine lakes. The mountain setting is perfect for relaxation, adventure, and creativity. We will be at the heart of hiking trails, lakes, and open skies. It’s an ideal place to connect with nature and make art.</p>",
+            "text": "<p>Our retreat location is surrounded by 360 degree mountains views, including the iconic Matterhorn. We will be at the heart of hiking trails with access to lakes, summits, ridges, and more. It’s an ideal place to connect with nature and make art.</p>",
             "link_label": "",
             "link": ""
           }
@@ -463,7 +510,7 @@
           "settings": {
             "heading": "What experience level is this workshop suitable for?",
             "icon": "none",
-            "row_content": "<p>This workshop is designed for intermediate watercolor painters who have some experience. Adventurous beginners are also welcome! If you're unsure whether this retreat is right for you, feel free to reach out for guidance.</p><p>Moderate level of fitness is required, as reaching the retreat involves an easy 45-minute hike from Blauherd to Fluhalp.  During the retreat we’ll also explore other hikes in the area, for example the scenic Five Lakes Hike (6 miles, 550ft elevation gain and 1500ft loss) so participants should be comfortable with light to moderate hiking.</p>",
+            "row_content": "<p>This workshop is designed for intermediate watercolor painters who have some experience. Adventurous beginners are also welcome! If you're unsure whether this retreat is right for you, please reach out for guidance.</p><p>Moderate level of fitness is required, as reaching the retreat involves an easy 45-minute hike from Blauherd to Fluhalp.  During the retreat we’ll also explore other hikes in the area, for example the scenic Five Lakes Hike (6 miles, 550ft elevation gain and 1500ft loss) so participants should be comfortable with light to moderate hiking.</p>",
             "page": ""
           }
         },
@@ -472,7 +519,7 @@
           "settings": {
             "heading": "What’s included in the registration fee?",
             "icon": "none",
-            "row_content": "<p>Your registration fee includes:</p><ul><li>Expert instruction and daily demonstrations by Nikki Frumkin.</li><li>Personalized feedback on your work.</li><li>Overnight accommodation at Berghaus Fluhalp, including bedding.</li><li>Breakfast and dinner during the course.</li><li>Access to extra watercolor supplies for experimentation.</li></ul><p></p>",
+            "row_content": "<p>Your registration fee includes:</p><ul><li>Expert instruction and daily demonstrations by Nikki Frumkin.</li><li>Personalized feedback on your work.</li><li>Overnight accommodation at Berghaus Fluhalp, including bedding.</li><li>Breakfast and dinner during the retreat.</li><li>Access to extra watercolor supplies for experimentation.</li></ul><p></p>",
             "page": ""
           }
         },
@@ -481,7 +528,7 @@
           "settings": {
             "heading": "What’s not included in the registration fee?",
             "icon": "none",
-            "row_content": "<p>Participants are responsible for:</p><ul><li>Travel to Switzerland and Zermatt.</li><li>Cable car tickets to Sunnegga and Blauherd.</li><li>Lunches (available on-site or self-catered).</li><li>Snacks and drinks during your stay.</li><li>Showers (available for a fee).</li><li>Towels, sanitary products, and personal items.</li></ul>",
+            "row_content": "<p>Participants are responsible for:</p><ul><li>Travel to Switzerland and Zermatt.</li><li>Cable car tickets to Sunnegga and Blauherd.</li><li>Lunches (available at the Berghaus or bring your own).</li><li>Snacks and drinks during your stay.</li><li>Showers (available for a fee).</li><li>Towels, sanitary products, and personal items (bring your own).</li></ul>",
             "page": ""
           }
         },
@@ -490,7 +537,7 @@
           "settings": {
             "heading": "How do I get to the retreat Berghaus?",
             "icon": "none",
-            "row_content": "<p>Fluhalp is only accessible by foot. You’ll take a cable car from Zermatt to Sunnegga and transfer to the Blauherd cable car station. From Blauherd, it’s a 45-minute walk along an easy trail with stunning Matterhorn views.</p>",
+            "row_content": "<p>Fluhalp is only accessible by foot. You’ll take a cable car from Zermatt to Sunnegga and transfer to the Blauherd cable car station. From Blauherd, it’s a 30- 45 minute walk along an easy trail with stunning views.</p>",
             "page": ""
           }
         },
@@ -499,7 +546,7 @@
           "settings": {
             "heading": "Which airport should I fly into for the retreat?",
             "icon": "none",
-            "row_content": "<p>You can fly into a variety of airports including: </p><ul><li><strong>Geneva Airport</strong></li><li><strong>Zurich Airport</strong></li><li><strong>Basel Airport</strong></li></ul><p>From any airport, take the train to Zermatt. From there you'll reach the retreat by cable car and foot.</p>",
+            "row_content": "<p>You can fly into a variety of airports including: </p><ul><li>Geneva Airport</li><li>Zurich Airport</li><li>Basel Airport</li></ul><p>From any airport, take the train to Zermatt. From there you'll reach the retreat by cable car and foot.</p>",
             "page": ""
           }
         },
@@ -518,7 +565,7 @@
           "settings": {
             "heading": "Will there be time for exploring or hiking?",
             "icon": "none",
-            "row_content": "<p>Yes! The schedule includes free time for hiking, exploring, or painting independently.</p>",
+            "row_content": "<p>Yes! The schedule includes free time for hiking, exploring, and painting independently.</p>",
             "page": ""
           }
         },
@@ -546,7 +593,7 @@
           "settings": {
             "heading": "Can dietary restrictions be accommodated?",
             "icon": "none",
-            "row_content": "<p>Fluhalp offers a set menu, and common dietary needs like vegetarian or gluten-free can usually be accommodated with advance notice. There’s also an additional menu available to order from at your own cost. Let us know your needs when you register, and we’ll check with the kitchen.</p>",
+            "row_content": "<p>Fluhalp offers a set menu, and common dietary needs like vegetarian or gluten-free can usually be accommodated with advance notice. There’s also an additional menu available to order from at your own cost. Let me know your needs when you register, and we’ll check with the kitchen.</p>",
             "page": ""
           }
         },
@@ -562,16 +609,16 @@
         "collapsible_row_Tdr4ar": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What is the cancellation policy?",
+            "heading": "What is the refund policy?",
             "icon": "none",
-            "row_content": "<p>If you need to cancel your participation in the workshop, please notify us as soon as possible. Our cancellation policy is as follows:</p><ul><li><strong>More than 40 days before the workshop:</strong> Full refund minus a $100 administrative fee.</li><li><strong>Less than 40 days before the workshop:</strong> No refund, but you can transfer your spot to another participant. </li><li><strong>In the case of workshop cancellation by us (e.g., due to insufficient group size):</strong> You will receive a full refund.<br/>We recommend purchasing travel insurance to cover any unforeseen circumstances.</li></ul>",
+            "row_content": "<p>If you need to cancel your participation, please notify us as soon as possible. Our cancellation policy is as follows:</p><ul><li><strong>More than 40 days before the workshop:</strong> Full refund minus a $100 administrative fee.</li><li><strong>Less than 40 days before the workshop:</strong> No refund, but you can transfer your spot to another participant. I may be able to help find someone off the waitlist.  </li></ul><p><br/>We recommend purchasing travel insurance to cover any unforeseen circumstances.</p>",
             "page": ""
           }
         },
         "collapsible_row_pAmx9p": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I come to the retreat alone?",
+            "heading": "Should I come to the retreat alone?",
             "icon": "none",
             "row_content": "<p>Yes, absolutely! Most participants come on their own, and it's a great opportunity to meet new people and make lasting friendships. The small group environment and shared experiences in the mountains creates a welcoming and supportive atmosphere. Our group environment is warm and encouraging. You’ll leave with new friends!</p>",
             "page": ""
@@ -798,10 +845,22 @@
         "content"
       ],
       "settings": {}
+    },
+    "contact_form_LwqT3c": {
+      "type": "contact-form",
+      "custom_css": [],
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "collage_3B4fBy",
+    "rich_text_96tJwB",
     "image_with_text_kcKBq6",
     "rich_text_ATJGBi",
     "image_with_text_Vr4RyH",
@@ -815,6 +874,7 @@
     "slideshow_n9eJBt",
     "video_eKAUbh",
     "image_banner_NzGUXz",
-    "main"
+    "main",
+    "contact_form_LwqT3c"
   ]
 }
