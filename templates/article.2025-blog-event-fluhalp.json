@@ -95,6 +95,43 @@
         "slide_JNxywH": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.33.57_PM.jpg",
+            "show_text_box": false,
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_XKW8yX": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM.jpg",
+            "show_text_box": false,
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_eJ3zLF": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.34.55_PM.jpg",
             "show_text_box": false,
             "heading": "Image slide",
             "heading_size": "h1",
@@ -112,7 +149,8 @@
         "slide_VwDcbk": {
           "type": "slide",
           "settings": {
-            "show_text_box": true,
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM_1.jpg",
+            "show_text_box": false,
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -129,6 +167,8 @@
       },
       "block_order": [
         "slide_JNxywH",
+        "slide_XKW8yX",
+        "slide_eJ3zLF",
         "slide_VwDcbk"
       ],
       "settings": {
