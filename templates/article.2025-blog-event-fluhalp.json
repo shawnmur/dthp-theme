@@ -15,22 +15,21 @@
         "image_R8YjE6": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.33.57_PM.jpg",
             "image_padding": false
           }
         },
         "image_awcF3m": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.34.55_PM_1.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.46.36_AM.jpg",
             "image_padding": false
           }
         },
-        "video_yNepjH": {
-          "type": "video",
+        "image_HUbMhD": {
+          "type": "image",
           "settings": {
-            "video_url": "https://www.youtube.com/watch?v=oCfEHCKkmgo",
-            "description": "Describe the video",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.46.34_AM.jpg",
             "image_padding": false
           }
         }
@@ -38,7 +37,7 @@
       "block_order": [
         "image_R8YjE6",
         "image_awcF3m",
-        "video_yNepjH"
+        "image_HUbMhD"
       ],
       "settings": {
         "heading": "Painting the Peaks: Switzerland, August 9 – 12, 2025",
@@ -343,7 +342,7 @@
         "button_wDr6WK"
       ],
       "settings": {
-        "image": "shopify://shop_images/Restaurant_Fluhalp19.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.33.57_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -609,24 +608,6 @@
     "slideshow_n9eJBt": {
       "type": "slideshow",
       "blocks": {
-        "slide_JNxywH": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.33.57_PM.jpg",
-            "show_text_box": false,
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_XKW8yX": {
           "type": "slide",
           "settings": {
@@ -645,10 +626,28 @@
             "text_alignment_mobile": "center"
           }
         },
+        "slide_JNxywH": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Restaurant_Fluhalp19.jpg",
+            "show_text_box": false,
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_eJ3zLF": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.34.55_PM.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.52.19_AM.jpg",
             "show_text_box": false,
             "heading": "Image slide",
             "heading_size": "h1",
@@ -683,8 +682,8 @@
         }
       },
       "block_order": [
-        "slide_JNxywH",
         "slide_XKW8yX",
+        "slide_JNxywH",
         "slide_eJ3zLF",
         "slide_VwDcbk"
       ],
