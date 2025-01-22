@@ -256,6 +256,50 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_w7hwy6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LEjeAg": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_3aAmqg": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Registration Fee</h3><h4><strong>4-Person Room with Matterhorn View (may include bunks):</strong></h4><ul><li>Standard Fee: $1425 per person</li><li>Early Bird Fee: $1225 per person</li></ul><p>For private room upgrades, please email me directly to inquire about availability.</p><p>Please note that the workshop will <strong>not </strong>be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_wDr6WK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_LEjeAg",
+        "text_3aAmqg",
+        "button_wDr6WK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Restaurant_Fluhalp19.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_B6ktx4": {
       "type": "multicolumn",
       "blocks": {
@@ -737,50 +781,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_w7hwy6": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_LEjeAg": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "text_3aAmqg": {
-          "type": "text",
-          "settings": {
-            "text": "<h3>Registration Fee</h3><h4><strong>4-Person Room with Matterhorn View (may include bunks):</strong></h4><ul><li>Standard Fee: $1425 per person</li><li>Early Bird Fee: $1225 per person</li></ul><p>For private room upgrades, please email me directly to inquire about availability.</p><p>Please note that the workshop will <strong>not </strong>be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_wDr6WK": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_LEjeAg",
-        "text_3aAmqg",
-        "button_wDr6WK"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Restaurant_Fluhalp19.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -790,13 +790,13 @@
     "image_with_text_Vr4RyH",
     "rich_text_4Y4zX4",
     "collapsible_content_jhJtD9",
+    "multicolumn_8rfDFH",
+    "image_with_text_w7hwy6",
     "multicolumn_B6ktx4",
     "image_with_text_aVMVRB",
     "collapsible_content_9mAfg8",
     "slideshow_n9eJBt",
     "image_banner_NzGUXz",
-    "main",
-    "multicolumn_8rfDFH",
-    "image_with_text_w7hwy6"
+    "main"
   ]
 }
