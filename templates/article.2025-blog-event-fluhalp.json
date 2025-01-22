@@ -546,7 +546,7 @@
           "settings": {
             "heading": "Which airport should I fly into for the retreat?",
             "icon": "none",
-            "row_content": "<p>You can fly into a variety of airports including: </p><ul><li>Geneva Airport</li><li>Zurich Airport</li><li>Basel Airport</li></ul><p>From any airport, take the train to Zermatt. From there you'll reach the retreat by cable car and foot.</p>",
+            "row_content": "<p>Switzerland is very easy  and comfortable to navigate by train. </p><p>From any airport, take the train to Zermatt. From there you'll reach the retreat by cable car and foot.</p><ul><li>Geneva Airport</li><li>Zurich Airport</li><li>Basel Airport</li></ul>",
             "page": ""
           }
         },
