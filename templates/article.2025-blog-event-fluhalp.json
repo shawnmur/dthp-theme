@@ -250,7 +250,7 @@
           "settings": {
             "heading": "Day 1: Arrival & Beginnings",
             "icon": "none",
-            "row_content": "<h4></h4><h4>3:00 PM - 4:00 PM: Arrival & Check-in</h4><h4>4:00 PM - 5:00 PM: Welcome session, introductions, and goal setting</h4><h4>5:00 PM - 6:00 PM: First outdoor painting session!</h4><h4>6:30 PM: Group dinner and conversation</h4><h4>Evening: Free time</h4>",
+            "row_content": "<h4></h4><h4>3:00 PM - 4:00 PM: Arrival & Check-in</h4><h4>4:00 PM - 5:00 PM: Welcome session, introductions, and goal setting</h4><h4>5:00 PM - 6:00 PM: First outdoor painting session!</h4><h4>6:30 PM: Group dinner and conversation</h4><h4>Evening: Free time, optional sunset painting</h4>",
             "page": ""
           }
         },
@@ -259,7 +259,7 @@
           "settings": {
             "heading": "Day 2: Techniques, Play, and Practice",
             "icon": "none",
-            "row_content": "<h4>7:30 AM - 8:30 AM: Breakfast</h4><h4>8:30 AM - 11:00 AM: Morning painting session, techniques, games, capturing the feeling of a landscape</h4><h4>12:00-1:00 PM: Lunch Break</h4><h4>1:00 PM - 4:30 PM: Prompt for Uninterrupted Painting with Individual Feedback </h4><h4>6:30 PM - 7:30 PM: Group dinner and discussion</h4>",
+            "row_content": "<h4>7:30 AM - 8:30 AM: Breakfast</h4><h4>8:30 AM - 11:00 AM: Morning painting session, techniques, games, capturing the feeling of a landscape</h4><h4>11:00-1:00 PM: Lunch Break, option to take your lunch on a hike</h4><h4>1:00 PM - 5:30 PM: Prompt for Uninterrupted Painting with Individual Feedback </h4><h4>6:30 PM - 7:30 PM: Group dinner and discussion</h4><h4>Evening: Free time, optional sunset painting</h4>",
             "page": ""
           }
         },
@@ -268,7 +268,7 @@
           "settings": {
             "heading": "Day 3: Painting the Alpine Landscape",
             "icon": "none",
-            "row_content": "<p>7:30 AM - 8:30 AM: Breakfast</p><p>8:30 AM - 2:00PM: Hike and Paint including prompts, demos and time for uninterrupted painting with individual Feedback </p><p>2:00PM-6:30PM: Free time to explore</p><p>6:30 PM -7:30 PM: Group dinner<br/><br/>7:30- 9:00 PM: Sunset painting session</p><p> </p>",
+            "row_content": "<p>6:00 AM - 7:00 AM: Sunrise Painting</p><p>7:30 AM - 8:30 AM: Breakfast and pack our day hike </p><p>8:30 AM - 2:00PM: Day Hike and Paint including learning prompts, demos and time for uninterrupted painting with individual feedback <br/>(Plan to hike around 6 miles)</p><p>2:00PM-6:30PM: Free time to explore and rest</p><p>6:30 PM -7:30 PM: Group dinner<br/><br/>7:30- 9:00 PM: Sunset painting session</p><p></p><p> </p>",
             "page": ""
           }
         },
@@ -277,7 +277,7 @@
           "settings": {
             "heading": "Day 4: Sunrise Painting & Departure",
             "icon": "none",
-            "row_content": "<p>6:00 AM - 8:30 AM: Sunrise Painting<br/><br/>8:30 AM - 10:00 AM: Breakfast and pack belongings<br/><br/>10:00 AM - 11:00 AM: Final Reflections, Group farewell and Departure</p>",
+            "row_content": "<p>5:30 AM - 8:00 AM: Sunrise Painting<br/><br/>8:00 AM - 10:00 AM: Breakfast and pack belongings<br/><br/>10:00 AM - 11:00 AM: Final Reflections, Group farewell and Departure</p>",
             "page": ""
           }
         }
@@ -410,7 +410,7 @@
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.52.19_AM.jpg",
             "title": "Getting There",
-            "text": "<p>Our Berghaus is accessible only by foot. From Blauherd, it’s a 30-45 minute walk to the hut. The easy hike, offering beautiful Matterhorn views, takes you from Blauherd via the scenic Stellisee to our retreat location at the Berghaus.</p>",
+            "text": "<p>Our Berghaus is accessible only by foot. From Blauherd, it’s a 30-45 minute walk to the Berghaus. The easy hike, offering beautiful Matterhorn views, takes you from Blauherd via the scenic Stellisee to our retreat location.</p>",
             "link_label": "",
             "link": ""
           }
@@ -430,7 +430,7 @@
           "settings": {
             "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.34.55_PM.jpg",
             "title": "The Surroundings",
-            "text": "<p>Our retreat location is surrounded by 360 degree mountains views, including the iconic Matterhorn. We will be at the heart of hiking trails with access to lakes, summits, ridges, and more. It’s an ideal place to connect with nature and make art.</p>",
+            "text": "<p>Our retreat location is surrounded by 360 degree mountains views, including the iconic Matterhorn. We will be at the heart of hiking trails with access to lakes, summits, ridges, and more. It’s an ideal place to connect with the nature through art.</p>",
             "link_label": "",
             "link": ""
           }
@@ -537,7 +537,7 @@
           "settings": {
             "heading": "How do I get to the retreat Berghaus?",
             "icon": "none",
-            "row_content": "<p>Fluhalp is only accessible by foot. You’ll take a cable car from Zermatt to Sunnegga and transfer to the Blauherd cable car station. From Blauherd, it’s a 30- 45 minute walk along an easy trail with stunning views.</p>",
+            "row_content": "<p>Fluhalp is only accessible by foot. You’ll take a cable car from Zermatt to Sunnegga and transfer to the Blauherd cable car station. From Blauherd, it’s a 30- 45 minute walk along an easy trail with stunning views.</p><p>Click <a href=\"https://www.matterhornparadise.ch/en/information/operating-hours/lifts-and-pistes\" target=\"_blank\" title=\"https://www.matterhornparadise.ch/en/information/operating-hours/lifts-and-pistes\">here</a> to go to the Zermatt mountain railway timetable.</p>",
             "page": ""
           }
         },
@@ -611,7 +611,7 @@
           "settings": {
             "heading": "What is the refund policy?",
             "icon": "none",
-            "row_content": "<p>If you need to cancel your participation, please notify us as soon as possible. Our cancellation policy is as follows:</p><ul><li><strong>More than 40 days before the workshop:</strong> Full refund minus a $100 administrative fee.</li><li><strong>Less than 40 days before the workshop:</strong> No refund, but you can transfer your spot to another participant. I may be able to help find someone off the waitlist.  </li></ul><p><br/>We recommend purchasing travel insurance to cover any unforeseen circumstances.</p>",
+            "row_content": "<p>If you need to cancel your participation, please notify us as soon as possible. Our cancellation policy is as follows:</p><ul><li><strong>More than 40 days before the workshop:</strong> Full refund minus a $100 administrative fee.</li><li><strong>Less than 40 days before the workshop:</strong> No refund, but you can transfer your spot to another participant. I may be able to help find someone off the waitlist.  </li></ul><p><br/>We recommend purchasing travel insurance to cover any unforeseen circumstances.</p><p></p>",
             "page": ""
           }
         },
