@@ -514,12 +514,21 @@
             "page": ""
           }
         },
+        "collapsible_row_pAmx9p": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Should I come to the retreat alone?",
+            "icon": "none",
+            "row_content": "<p>Yes, absolutely! Most participants come on their own, and it's a great opportunity to meet new people and make lasting friendships. The small group environment and shared experiences in the mountains creates a welcoming and supportive atmosphere. Our group environment is warm and encouraging. You’ll leave with new friends!</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_eDpJUt": {
           "type": "collapsible_row",
           "settings": {
             "heading": "What’s included in the registration fee?",
             "icon": "none",
-            "row_content": "<p>Your registration fee includes:</p><ul><li>Expert instruction and daily demonstrations by Nikki Frumkin.</li><li>Personalized feedback on your work.</li><li>Overnight accommodation at Berghaus Fluhalp, including bedding.</li><li>Breakfast and dinner during the retreat.</li><li>Access to extra watercolor supplies for experimentation.</li></ul><p></p>",
+            "row_content": "<p>Your registration fee includes:</p><ul><li>Overnight accommodation at Berghaus Fluhalp, including bedding </li><li>Expert instruction and daily demonstrations by Nikki Frumkin.</li><li>Personalized feedback on your work.</li><li>Four Course dinners during the retreat.</li><li>Breakfast Buffet during the retreat.</li><li>Access to watercolor supplies for experimentation.</li></ul><p></p>",
             "page": ""
           }
         },
@@ -528,7 +537,16 @@
           "settings": {
             "heading": "What’s not included in the registration fee?",
             "icon": "none",
-            "row_content": "<p>Participants are responsible for:</p><ul><li>Travel to Switzerland and Zermatt.</li><li>Cable car tickets to Sunnegga and Blauherd.</li><li>Lunches (available at the Berghaus or bring your own).</li><li>Snacks and drinks during your stay.</li><li>Showers (available for a fee).</li><li>Towels, sanitary products, and personal items (bring your own).</li></ul>",
+            "row_content": "<p>Participants are responsible for:</p><ul><li>Travel to Switzerland and Zermatt.</li><li>Cable car tickets to Sunnegga and Blauherd.</li><li>Lunches (available at the Berghaus or bring your own).</li><li>Snacks and drinks during your stay.</li><li>Showers (available for a fee).</li><li>Towels, sanitary products, and personal items (bring your own).</li><li>Supplies to participate in the retreat</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kFaLhF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Which airport should I fly into for the retreat?",
+            "icon": "none",
+            "row_content": "<p>Switzerland is very easy  and comfortable to navigate by train from any airport. </p><p>Close Airports</p><ul><li>Geneva Airport</li><li>Zurich Airport</li><li>Basel Airport</li></ul><p>From any airport, take the train to Zermatt. From there you'll reach the retreat by cable car and foot.</p>",
             "page": ""
           }
         },
@@ -538,15 +556,6 @@
             "heading": "How do I get to the retreat Berghaus?",
             "icon": "none",
             "row_content": "<p>Fluhalp is only accessible by foot. You’ll take a cable car from Zermatt to Sunnegga and transfer to the Blauherd cable car station. From Blauherd, it’s a 30- 45 minute walk along an easy trail with stunning views.</p><p>Click <a href=\"https://www.matterhornparadise.ch/en/information/operating-hours/lifts-and-pistes\" target=\"_blank\" title=\"https://www.matterhornparadise.ch/en/information/operating-hours/lifts-and-pistes\">here</a> to go to the Zermatt mountain railway timetable.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_kFaLhF": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Which airport should I fly into for the retreat?",
-            "icon": "none",
-            "row_content": "<p>Switzerland is very easy  and comfortable to navigate by train. </p><p>From any airport, take the train to Zermatt. From there you'll reach the retreat by cable car and foot.</p><p>Close Airports</p><ul><li>Geneva Airport</li><li>Zurich Airport</li><li>Basel Airport</li></ul>",
             "page": ""
           }
         },
@@ -565,7 +574,7 @@
           "settings": {
             "heading": "Will there be time for exploring or hiking?",
             "icon": "none",
-            "row_content": "<p>Yes! The schedule includes free time for hiking, exploring, and painting independently.</p>",
+            "row_content": "<p>Yes! The schedule includes free time for hiking, exploring, and painting independently.<br/>There are some incredible ridges and lakes to hike to for sunrise and sunset, as well as plenty of day hiking and exploring.</p>",
             "page": ""
           }
         },
@@ -574,7 +583,7 @@
           "settings": {
             "heading": "What should I pack?",
             "icon": "none",
-            "row_content": "<p>You’ll receive a detailed packing list upon registration, but you should bring watercolor supplies, warm clothing, sturdy shoes for hiking, and any personal items you’ll need during your stay.</p>",
+            "row_content": "<p>You’ll receive a detailed packing list upon registration, but you should bring watercolor supplies, comfortable clothing for hiking and relaxing, sturdy shoes, and any personal items you’ll need during your stay.</p><p>Since the Berghaus is only reachable by foot, you'll be carrying everything you need for the retreat on a 45 minute hike. Pack light!</p>",
             "page": ""
           }
         },
@@ -593,7 +602,7 @@
           "settings": {
             "heading": "Can dietary restrictions be accommodated?",
             "icon": "none",
-            "row_content": "<p>Fluhalp offers a set four course dinner menu and a breakfast buffet. Common dietary needs like vegetarian or gluten-free can be accommodated with advance notice. Let me know your needs when you register, and we’ll check with the kitchen.</p><p>There’s also an additional menu available to order from at your own cost. </p>",
+            "row_content": "<p>Fluhalp offers a set four course dinner menu and a breakfast buffet. Common dietary needs like vegetarian or gluten-free can be accommodated with advance notice. Let me know your needs when you register, and we’ll confirm with the kitchen.</p><p>There’s also an additional menu available to order from at your own cost. </p>",
             "page": ""
           }
         },
@@ -602,7 +611,7 @@
           "settings": {
             "heading": "What happens if the minimum group size isn’t met?",
             "icon": "none",
-            "row_content": "<p>The workshop will not be confirmed until the minimum group size is met. Once the group is confirmed, we’ll notify all registered participants and proceed with the final details. Please do not book travel or make non-refundable arrangements until you receive confirmation. Refunds for travel and other trip expenses will not be provided if the workshop is canceled due to the group size not being met.</p>",
+            "row_content": "<p><strong>The workshop will not be confirmed until the minimum group size is met. </strong>Once the group is confirmed, we’ll notify all registered participants and proceed with the final details. Please do not book travel or make non-refundable arrangements until you receive confirmation. Refunds for travel and other trip expenses will not be provided if the workshop is canceled due to the group size not being met. </p>",
             "page": ""
           }
         },
@@ -614,31 +623,22 @@
             "row_content": "<p>If you need to cancel your participation, please notify us as soon as possible. Our cancellation policy is as follows:</p><ul><li><strong>More than 40 days before the workshop:</strong> Full refund minus a $100 administrative fee.</li><li><strong>Less than 40 days before the workshop:</strong> No refund, but you can transfer your spot to another participant. I may be able to help find someone off the waitlist.  </li></ul><p><br/>We recommend purchasing travel insurance to cover any unforeseen circumstances.</p><p></p>",
             "page": ""
           }
-        },
-        "collapsible_row_pAmx9p": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Should I come to the retreat alone?",
-            "icon": "none",
-            "row_content": "<p>Yes, absolutely! Most participants come on their own, and it's a great opportunity to meet new people and make lasting friendships. The small group environment and shared experiences in the mountains creates a welcoming and supportive atmosphere. Our group environment is warm and encouraging. You’ll leave with new friends!</p>",
-            "page": ""
-          }
         }
       },
       "block_order": [
         "collapsible_row_4WWfm8",
+        "collapsible_row_pAmx9p",
         "collapsible_row_eDpJUt",
         "collapsible_row_D3DFeq",
-        "collapsible_row_nhwj7p",
         "collapsible_row_kFaLhF",
+        "collapsible_row_nhwj7p",
         "collapsible_row_GWMb8N",
         "collapsible_row_k6iaKK",
         "collapsible_row_FPBbcX",
         "collapsible_row_xYprpH",
         "collapsible_row_YwDJfQ",
         "collapsible_row_bRLGxW",
-        "collapsible_row_Tdr4ar",
-        "collapsible_row_pAmx9p"
+        "collapsible_row_Tdr4ar"
       ],
       "settings": {
         "caption": "",
