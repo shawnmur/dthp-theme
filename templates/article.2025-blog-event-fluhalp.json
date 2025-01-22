@@ -164,6 +164,42 @@
         "padding_bottom": 52
       }
     },
+    "image_with_text_Vr4RyH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UykebN": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_dMydK4": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><strong>Your Retreat Experience</strong></h4><ul><li><h4> Stay at a remote high alpine Berghaus, with Matterhorn views from your window</h4></li><li><h4>Join sunrise and sunset painting sessions</h4></li><li><h4>Hike alpine lakes and mountain trails starting from our front door</h4></li><li><h4>Enjoy four course meals and relax with other artists in a cozy mountain berghaus</h4></li><li><h4>Participate in daily painting demos and skill building sessions.</h4></li><li><h4>Enjoy uninterrupted plein air painting time</h4></li><li><h4>Leave with new friends, skills, and lots of art.</h4></li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UykebN",
+        "text_dMydK4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/819-_DSC4141.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_x6pe9z": {
       "type": "image-with-text",
       "blocks": {
@@ -197,42 +233,6 @@
       ],
       "settings": {
         "image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.46.36_AM.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_Vr4RyH": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_UykebN": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_dMydK4": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><strong>Your Retreat Experience</strong></h4><ul><li><h4> Stay at a remote high alpine Berghaus, with Matterhorn views from your window</h4></li><li><h4>Join sunrise and sunset painting sessions</h4></li><li><h4>Hike alpine lakes and mountain trails starting from our front door</h4></li><li><h4>Enjoy four course meals and relax with other artists in a cozy mountain berghaus</h4></li><li><h4>Participate in daily painting demos and skill building sessions.</h4></li><li><h4>Enjoy uninterrupted plein air painting time</h4></li><li><h4>Leave with new friends, skills, and lots of art.</h4></li></ul>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_UykebN",
-        "text_dMydK4"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/819-_DSC4141.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -1094,8 +1094,8 @@
     "rich_text_96tJwB",
     "image_with_text_kcKBq6",
     "rich_text_ATJGBi",
-    "image_with_text_x6pe9z",
     "image_with_text_Vr4RyH",
+    "image_with_text_x6pe9z",
     "rich_text_4Y4zX4",
     "collapsible_content_jhJtD9",
     "multicolumn_8rfDFH",
