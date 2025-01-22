@@ -371,7 +371,7 @@
         "text_3aAmqg": {
           "type": "text",
           "settings": {
-            "text": "<h3>4-Person Room with Matterhorn View (may include bunks)</h3><ul><li>Standard Fee<br/><em>$1425 per person</em></li><li>Early Bird Fee (Register by 2/22/25)<br/><em>$1225 per person</em></li></ul><p>For private room upgrades, please email me directly to inquire about availability.</p><p>Please note that the workshop will <strong>not </strong>be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
+            "text": "<h3>Cozy 4-Person Room with Matterhorn View (may include bunks)</h3><ul><li>Standard Fee<br/><em>$1425 per person</em></li><li>Early Bird Fee (Register by 2/22/25)<br/><em>$1225 per person</em></li></ul><p>For private room upgrades, please email me directly to inquire about availability.</p><p>Please note that the workshop will <strong>not </strong>be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
             "text_style": "body"
           }
         },
@@ -750,7 +750,7 @@
     "video_eKAUbh": {
       "type": "video",
       "settings": {
-        "heading": "Video Tour",
+        "heading": "Video Tour: Getting There, and Exploring the Area",
         "heading_size": "h2",
         "cover_image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.52.19_AM.jpg",
         "video_url": "https://www.youtube.com/watch?v=oCfEHCKkmgo",
@@ -850,7 +850,7 @@
       "type": "contact-form",
       "custom_css": [],
       "settings": {
-        "heading": "Contact form",
+        "heading": "Contact me with Questions and for more Info",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 36,
