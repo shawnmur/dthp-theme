@@ -504,14 +504,14 @@
         "text_AYLENW": {
           "type": "text",
           "settings": {
-            "text": "<p>Book your reservation to paint with me.</p>",
+            "text": "",
             "text_style": "subtitle"
           }
         },
         "button_X7beFH": {
           "type": "button",
           "settings": {
-            "button_label": "Book Now",
+            "button_label": "Reserve your spot now",
             "button_link": ""
           }
         }
