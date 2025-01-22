@@ -26,10 +26,11 @@
             "image_padding": false
           }
         },
-        "image_jXAUJH": {
-          "type": "image",
+        "video_yNepjH": {
+          "type": "video",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.34.55_PM.jpg",
+            "video_url": "https://www.youtube.com/watch?v=oCfEHCKkmgo",
+            "description": "Describe the video",
             "image_padding": false
           }
         }
@@ -37,7 +38,7 @@
       "block_order": [
         "image_R8YjE6",
         "image_awcF3m",
-        "image_jXAUJH"
+        "video_yNepjH"
       ],
       "settings": {
         "heading": "Painting the Peaks: Switzerland, August 9 – 12, 2025",
@@ -252,6 +253,61 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_8rfDFH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JCHRGK": {
+          "type": "column",
+          "settings": {
+            "title": "Small Group Experience",
+            "text": "<p>This workshop is designed to provide personalized attention in an intimate, small-group setting. With limited spots available, you’ll receive tailored feedback and plenty of one-on-one time with the instructor, ensuring a truly supportive and enriching experience. The small group size fosters meaningful connections with fellow artists, creating a collaborative and inspiring environment for learning and growth.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HdR9M9": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Registration Fee",
+            "text": "<h3></h3><ul><li>4-Person Room with Matterhorn View (may include bunks):</li><li>For private room upgrades, please email me directly to inquire about availability. upgrades starting at $400 per person</li></ul><p>Please note that the workshop will not be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3dmW9m": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JCHRGK",
+        "column_HdR9M9",
+        "column_3dmW9m"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -726,61 +782,6 @@
         "content"
       ],
       "settings": {}
-    },
-    "multicolumn_8rfDFH": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_JCHRGK": {
-          "type": "column",
-          "settings": {
-            "title": "Small Group Experience",
-            "text": "<p>This workshop is designed to provide personalized attention in an intimate, small-group setting. With limited spots available, you’ll receive tailored feedback and plenty of one-on-one time with the instructor, ensuring a truly supportive and enriching experience. The small group size fosters meaningful connections with fellow artists, creating a collaborative and inspiring environment for learning and growth.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_HdR9M9": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Registration Fee",
-            "text": "<h3></h3><ul><li>4-Person Room with Matterhorn View (may include bunks):</li><li>For private room upgrades, please email me directly to inquire about availability. upgrades starting at $400 per person</li></ul><p>Please note that the workshop will not be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_3dmW9m": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_JCHRGK",
-        "column_HdR9M9",
-        "column_3dmW9m"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
