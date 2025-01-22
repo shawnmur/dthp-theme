@@ -29,7 +29,7 @@
         "image_HUbMhD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM_1.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_8.33.57_PM_3b75d76e-4757-4956-b709-0242c8616119.jpg",
             "image_padding": false
           }
         }
@@ -906,6 +906,31 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "collage_MKDWgp": {
+      "type": "collage",
+      "blocks": {
+        "image_PCnhEn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/857-_DSC4182.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "image_PCnhEn"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -926,6 +951,7 @@
     "image_banner_NzGUXz",
     "main",
     "contact_form_LwqT3c",
-    "image_banner_QX7REQ"
+    "image_banner_QX7REQ",
+    "collage_MKDWgp"
   ]
 }
