@@ -190,6 +190,67 @@
       ],
       "settings": {}
     },
+    "collapsible_content_jhJtD9": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_aUpGd9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Day 1: Arrival & Beginnings",
+            "icon": "none",
+            "row_content": "<p>3:00 PM - 4:00 PM: Arrival & Check-in</p><p>4:00 PM - 5:00 PM: Welcome session and introduction and goal setting</p><p>5:00 PM - 6:00 PM: First outdoor painting session with guidance</p><p>6:30 PM: Group dinner and informal introductions</p><p>Evening: Free time </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_r47FFg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Day 2: Techniques, Play, and Practice",
+            "icon": "none",
+            "row_content": "<p>7:30 AM - 8:30 AM: Breakfast</p><p>8:30 AM - 11:00 AM: Morning painting session, techniques, games, capturing the feeling of a landscape</p><p>12:00-1:00 PM: Lunch Break</p><p>2:00 PM - 4:30 PM: Prompt for Uninterrupted Painting with Individual Feedback </p><p>6:30 PM - 7:30 PM: Group dinner and discussion</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_UnMkC3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Day 3: Painting the Alpine Landscape",
+            "icon": "none",
+            "row_content": "<p>7:30 AM - 8:30 AM: Breakfast</p><p>8:30 AM - 2:00PM: Hike and Paint including prompts, demos and time for uninterrupted painting with individual Feedback </p><p>2:00PM-6:30PM: Free time</p><p>6:30 PM -7:30 PM: Group dinner<br/><br/>7:30- 9:00 PM: Sunset painting session</p><p> </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QUe7VC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Day 4: Sunrise Painting & Departure",
+            "icon": "none",
+            "row_content": "<p>6:00 AM - 8:30 AM: Sunrise Painting<br/><br/>8:30 AM - 10:00 AM: Breakfast and pack belongings<br/><br/>10:00 AM - 11:00 AM: Final Reflections, Group farewell and Departure</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_aUpGd9",
+        "collapsible_row_r47FFg",
+        "collapsible_row_UnMkC3",
+        "collapsible_row_QUe7VC"
+      ],
+      "settings": {
+        "caption": "(Subject to change based on weather and group preferences)",
+        "heading": "Sample Itinerary",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_aVMVRB": {
       "type": "image-with-text",
       "blocks": {
@@ -230,6 +291,159 @@
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_9mAfg8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_4WWfm8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What experience level is this workshop suitable for?",
+            "icon": "none",
+            "row_content": "<p>This workshop is designed for intermediate watercolor painters who have some experience with the medium. Adventurous beginners are also welcome! If you're unsure whether this retreat is right for you, feel free to reach out for guidance.</p><p>Moderate level of fitness is required, as reaching the retreat involves an easy 45-minute hike from Blauherd to Fluhalp.  During the retreat, we’ll also explore other hikes in the area, for example the  the scenic Five Lakes Hike (6 miles, 550ft elevation gain and 1500ft loss) so participants should be comfortable with light to moderate hiking.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_eDpJUt": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s included in the registration fee?",
+            "icon": "none",
+            "row_content": "<p>Your registration fee includes:</p><ul><li>Expert instruction and daily demonstrations by Nikki Frumkin.</li><li>Personalized feedback on your work.</li><li>Overnight accommodation at Berghaus Fluhalp, including bedding.</li><li>Breakfast and dinner during the course.</li><li>Access to extra watercolor supplies for experimentation.</li></ul><p></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_D3DFeq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What’s not included in the registration fee?",
+            "icon": "none",
+            "row_content": "<p>Participants are responsible for:</p><ul><li>Travel to Switzerland and Zermatt.</li><li>Cable car tickets to Sunnegga and Blauherd.</li><li>Lunches (available on-site or self-catered).</li><li>Snacks and drinks during your stay.</li><li>Showers (available for a fee).</li><li>Towels, sanitary products, and personal items.</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_nhwj7p": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I get to the retreat Berghaus?",
+            "icon": "none",
+            "row_content": "<p>Fluhalp is only accessible by foot. You’ll take a cable car from Zermatt to Sunnegga and transfer to the Blauherd cable car station. From Blauherd, it’s a 45-minute walk along an easy trail with stunning Matterhorn views.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kFaLhF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Which airport should I fly into for the retreat?",
+            "icon": "none",
+            "row_content": "<p>You can fly into a variety of airports including: </p><ul><li><strong>Geneva Airport</strong></li><li><strong>Zurich Airport</strong></li><li><strong>Basel Airport</strong></li></ul><p>From any airport, take the train to Zermatt. From there you'll reach the retreat by cable car and foot.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GWMb8N": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Are private rooms available?",
+            "icon": "none",
+            "row_content": "<p>Yes, private rooms are available for an additional fee, while supplies last. To upgrade to a private room, please email me directly to inquire about availability.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_k6iaKK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will there be time for exploring or hiking?",
+            "icon": "none",
+            "row_content": "<p>Yes! The schedule includes free time for hiking, exploring, or painting independently.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FPBbcX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What should I pack?",
+            "icon": "none",
+            "row_content": "<p>You’ll receive a detailed packing list upon registration, but you should bring watercolor supplies, warm clothing, sturdy shoes for hiking, and any personal items you’ll need during your stay.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xYprpH": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Can I come earlier or stay later at Fluhalp?",
+            "icon": "none",
+            "row_content": "<p>If you’d like to extend your stay at Fluhalp, you can contact the mountain hut directly to make arrangements. This will depend on their availability and will be a separate reservation. </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YwDJfQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can dietary restrictions be accommodated?",
+            "icon": "none",
+            "row_content": "<p>Fluhalp offers a set menu, and common dietary needs like vegetarian or gluten-free can usually be accommodated with advance notice. There’s also an additional menu available to order from at your own cost. Let us know your needs when you register, and we’ll check with the kitchen.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_bRLGxW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What happens if the minimum group size isn’t met?",
+            "icon": "none",
+            "row_content": "<p>The workshop will not be confirmed until the minimum group size is met. Once the group is confirmed, we’ll notify all registered participants and proceed with the final details. Please do not book travel or make non-refundable arrangements until you receive confirmation. Refunds for travel and other trip expenses will not be provided if the workshop is canceled due to the group size not being met.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Tdr4ar": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the cancellation policy?",
+            "icon": "none",
+            "row_content": "<p>If you need to cancel your participation in the workshop, please notify us as soon as possible. Our cancellation policy is as follows:</p><ul><li><strong>More than 40 days before the workshop:</strong> Full refund minus a $100 administrative fee.</li><li><strong>Less than 40 days before the workshop:</strong> No refund, but you can transfer your spot to another participant. </li><li><strong>In the case of workshop cancellation by us (e.g., due to insufficient group size):</strong> You will receive a full refund.<br/>We recommend purchasing travel insurance to cover any unforeseen circumstances.</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pAmx9p": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I come to the retreat alone?",
+            "icon": "none",
+            "row_content": "<p>Yes, absolutely! Most participants come on their own, and it's a great opportunity to meet new people and make lasting friendships. The small group environment and shared experiences in the mountains creates a welcoming and supportive atmosphere. Our group environment is warm and encouraging. You’ll leave with new friends!</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_4WWfm8",
+        "collapsible_row_eDpJUt",
+        "collapsible_row_D3DFeq",
+        "collapsible_row_nhwj7p",
+        "collapsible_row_kFaLhF",
+        "collapsible_row_GWMb8N",
+        "collapsible_row_k6iaKK",
+        "collapsible_row_FPBbcX",
+        "collapsible_row_xYprpH",
+        "collapsible_row_YwDJfQ",
+        "collapsible_row_bRLGxW",
+        "collapsible_row_Tdr4ar",
+        "collapsible_row_pAmx9p"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -325,127 +539,6 @@
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
-    },
-    "collapsible_content_9mAfg8": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_4WWfm8": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "1. What experience level is this workshop suitable for?",
-            "icon": "none",
-            "row_content": "<p>This workshop is designed for intermediate watercolor painters who have some experience with the medium. Adventurous beginners are also welcome! If you're unsure whether this retreat is right for you, feel free to reach out for guidance.</p><p>Moderate level of fitness is required, as reaching the retreat involves an easy 45-minute hike from Blauherd to Fluhalp.  During the retreat, we’ll also explore other hikes in the area, for example the  the scenic Five Lakes Hike (6 miles, 550ft elevation gain and 1500ft loss) so participants should be comfortable with light to moderate hiking.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_eDpJUt": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "2. What’s included in the registration fee?",
-            "icon": "none",
-            "row_content": "<p>Your registration fee includes:</p><ul><li>Expert instruction and daily demonstrations by Nikki Frumkin.</li><li>Personalized feedback on your work.</li><li>Overnight accommodation at Berghaus Fluhalp, including bedding.</li><li>Breakfast and dinner during the course.</li><li>Access to extra watercolor supplies for experimentation.</li></ul><p></p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_D3DFeq": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "3. What’s not included in the registration fee?",
-            "icon": "none",
-            "row_content": "<p>Participants are responsible for:</p><ul><li>Travel to Switzerland and Zermatt.</li><li>Cable car tickets to Sunnegga and Blauherd.</li><li>Lunches (available on-site or self-catered).</li><li>Snacks and drinks during your stay.</li><li>Showers (available for a fee).</li><li>Towels, sanitary products, and personal items.</li></ul>",
-            "page": ""
-          }
-        },
-        "collapsible_row_nhwj7p": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "4. How do I get to the retreat Berghaus?",
-            "icon": "none",
-            "row_content": "<p>Fluhalp is only accessible by foot. You’ll take a cable car from Zermatt to Sunnegga and transfer to the Blauherd cable car station. From Blauherd, it’s a 45-minute walk along an easy trail with stunning Matterhorn views.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_GWMb8N": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "5. Are private rooms available?",
-            "icon": "none",
-            "row_content": "<p>Yes, private rooms are available for an additional fee, while supplies last. To upgrade to a private room, please email me directly to inquire about availability.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_k6iaKK": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "6. Will there be time for exploring or hiking?",
-            "icon": "none",
-            "row_content": "<p>Yes! The schedule includes free time for hiking, exploring, or painting independently.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_FPBbcX": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "7. What should I pack?",
-            "icon": "none",
-            "row_content": "<p>You’ll receive a detailed packing list upon registration, but you should bring watercolor supplies, warm clothing, sturdy shoes for hiking, and any personal items you’ll need during your stay.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_bRLGxW": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "8. What happens if the minimum group size isn’t met?",
-            "icon": "none",
-            "row_content": "<p>The workshop will not be confirmed until the minimum group size is met. Once the group is confirmed, we’ll notify all registered participants and proceed with the final details. Please do not book travel or make non-refundable arrangements until you receive confirmation. Refunds for travel and other trip expenses will not be provided if the workshop is canceled due to the group size not being met.</p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_xYprpH": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "9. Can I come earlier or stay later at Fluhalp?",
-            "icon": "none",
-            "row_content": "<p>If you’d like to extend your stay at Fluhalp, you can contact the mountain hut directly to make arrangements. This will depend on their availability and will be a separate reservation. </p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_YwDJfQ": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "10. Can dietary restrictions be accommodated?",
-            "icon": "none",
-            "row_content": "<p>Fluhalp offers a set menu, and common dietary needs like vegetarian or gluten-free can usually be accommodated with advance notice. There’s also an additional menu available to order from at your own cost. Let us know your needs when you register, and we’ll check with the kitchen.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_4WWfm8",
-        "collapsible_row_eDpJUt",
-        "collapsible_row_D3DFeq",
-        "collapsible_row_nhwj7p",
-        "collapsible_row_GWMb8N",
-        "collapsible_row_k6iaKK",
-        "collapsible_row_FPBbcX",
-        "collapsible_row_bRLGxW",
-        "collapsible_row_xYprpH",
-        "collapsible_row_YwDJfQ"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "FAQs",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -454,8 +547,9 @@
     "rich_text_ATJGBi",
     "image_with_text_Vr4RyH",
     "main",
+    "collapsible_content_jhJtD9",
     "image_with_text_aVMVRB",
-    "slideshow_n9eJBt",
-    "collapsible_content_9mAfg8"
+    "collapsible_content_9mAfg8",
+    "slideshow_n9eJBt"
   ]
 }
