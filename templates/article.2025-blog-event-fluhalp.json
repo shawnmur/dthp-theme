@@ -159,20 +159,20 @@
         "heading_kMhzFE": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand</p>",
+            "heading": "",
             "heading_size": "h1"
           }
         },
         "text_cm4mgx": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Spend 4 days immersed in the breathtaking Swiss Alps during this plein air watercolor workshop.</strong> We will be situated in the middle of stunning views of the Matterhorn, alpine lakes, and dramatic mountain landscapes. This course focuses on the unique challenges and joys of painting outdoors. It is designed for intermediate painters, though adventurous beginners are welcome. </p><p>Led by professional watercolor artist Nikki Frumkin, you’ll learn to translate the everchanging light of dramatic alpine landscapes onto paper. Sessions will combine demonstrations, guided practice, art games, and personalized feedback to help you develop your skills and create plein air paintings that capture the beauty of your surroundings.</p><h3>Small Group Experience</h3><p>This workshop is designed to provide personalized attention in an intimate, small-group setting. With limited spots available, you’ll receive tailored feedback and plenty of one-on-one time with the instructor, ensuring a truly supportive and enriching experience. The small group size fosters meaningful connections with fellow artists, creating a collaborative and inspiring environment for learning and growth.</p><h3>Registration Fee</h3><ul><li>4-Person Room with Matterhorn View (may include bunks):</li><li>For private room upgrades, please email me directly to inquire about availability. upgrades starting at $400 per person</li></ul><p>Please note that the workshop will not be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>"
+            "text": "<p><strong>Spend 4 days immersed in the breathtaking Swiss Alps during this plein air watercolor workshop.</strong> We will be situated in the middle of stunning views of the Matterhorn, alpine lakes, and dramatic mountain landscapes. This course focuses on the unique challenges and joys of painting outdoors. It is designed for intermediate painters, though adventurous beginners are welcome. </p><p>Led by professional watercolor artist Nikki Frumkin, you’ll learn to translate the everchanging light of dramatic alpine landscapes onto paper. Sessions will combine demonstrations, guided practice, art games, and personalized feedback to help you develop your skills and create plein air paintings that capture the beauty of your surroundings.</p>"
           }
         },
         "button_jn4Adf": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -682,6 +682,105 @@
         "content"
       ],
       "settings": {}
+    },
+    "multicolumn_8rfDFH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JCHRGK": {
+          "type": "column",
+          "settings": {
+            "title": "Small Group Experience",
+            "text": "<p>This workshop is designed to provide personalized attention in an intimate, small-group setting. With limited spots available, you’ll receive tailored feedback and plenty of one-on-one time with the instructor, ensuring a truly supportive and enriching experience. The small group size fosters meaningful connections with fellow artists, creating a collaborative and inspiring environment for learning and growth.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HdR9M9": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Registration Fee",
+            "text": "<h3></h3><ul><li>4-Person Room with Matterhorn View (may include bunks):</li><li>For private room upgrades, please email me directly to inquire about availability. upgrades starting at $400 per person</li></ul><p>Please note that the workshop will not be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3dmW9m": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JCHRGK",
+        "column_HdR9M9",
+        "column_3dmW9m"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_w7hwy6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LEjeAg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_3aAmqg": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Registration Fee</h3><h4><strong>4-Person Room with Matterhorn View (may include bunks):</strong></h4><ul><li>Standard Fee: $1425 per person</li><li>Early Bird Fee: $1225 per person</li></ul><p>For private room upgrades, please email me directly to inquire about availability.</p><p>Please note that the workshop will <strong>not </strong>be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_wDr6WK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_LEjeAg",
+        "text_3aAmqg",
+        "button_wDr6WK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Restaurant_Fluhalp19.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -696,6 +795,8 @@
     "collapsible_content_9mAfg8",
     "slideshow_n9eJBt",
     "image_banner_NzGUXz",
-    "main"
+    "main",
+    "multicolumn_8rfDFH",
+    "image_with_text_w7hwy6"
   ]
 }
