@@ -40,7 +40,7 @@
         "image_HUbMhD"
       ],
       "settings": {
-        "heading": "Painting the Peaks: Switzerland, August 9 – 12, 2025",
+        "heading": "Painting the Peaks: Switzerland, August 24 – 27, 2025",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -110,7 +110,7 @@
         "text_TWQnJD": {
           "type": "text",
           "settings": {
-            "text": "<h4>Spend four days painting outdoors with expert guidance from Nikki Frumkin in a small, supportive group. Connect with fellow artists and create artwork in a truly inspiring setting.</h4><h4><strong>Dates<br/></strong>August 9 – August 12, 2025</h4><h4><strong>Location<br/></strong>Switzerland, 2606 meters above sea level in the Suneegga-Blauherd-Rothorn area above Zermatt (with breathtaking Matterhorn views).</h4>",
+            "text": "<h4>Spend four days painting outdoors with expert guidance from Nikki Frumkin in a small, supportive group. Connect with fellow artists and create artwork in a truly inspiring setting.</h4><h4><strong>Dates<br/></strong>August 24 – August 27, 2025</h4><h4><strong>Location<br/></strong>Switzerland, 2606 meters above sea level in the Suneegga-Blauherd-Rothorn area above Zermatt (with breathtaking Matterhorn views).</h4>",
             "text_style": "body"
           }
         }
@@ -371,7 +371,7 @@
         "text_3aAmqg": {
           "type": "text",
           "settings": {
-            "text": "<h3>Cozy 4-Person Room with Matterhorn View (may include bunks)</h3><ul><li>Standard Fee<br/><em>$1425 per person</em></li><li>Early Bird Fee (Register by 2/22/25)<br/><em>$1225 per person</em></li></ul><p>For private room upgrades, please email me directly to inquire about availability.</p><p>Please note that the workshop will <strong>not </strong>be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
+            "text": "<h3><strong>Cozy Four Person Room with Matterhorn View</strong></h3><h3><strong>Four Days of Plein Air Retreat</strong></h3><h3><strong>Four Course Dinners</strong></h3><ul><li>Standard Fee<br/><em>$1425 per person</em></li><li>Early Bird Fee (Register by 2/22/25)<br/><em>$1225 per person</em></li></ul><p>For private room upgrades, please email me directly to inquire about availability.</p><p>Please note that the workshop will <strong>not </strong>be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.</p>",
             "text_style": "body"
           }
         },
@@ -856,6 +856,56 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_QX7REQ": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_KerTHj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_jVH3pH": {
+          "type": "text",
+          "settings": {
+            "text": "Cozy 4-Person Room with Matterhorn View (may include bunks)Standard Fee$1425 per personEarly Bird Fee (Register by 2/22/25)$1225 per personFor private room upgrades, please email me directly to inquire about availability.Please note that the workshop will not be confirmed until the minimum group size has been met. Once the group size is confirmed, we will notify all registered participants and proceed with the final details.",
+            "text_style": "body"
+          }
+        },
+        "buttons_taaAic": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_KerTHj",
+        "text_jVH3pH",
+        "buttons_taaAic"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/919988c8-bd6b-4533-8a17-890faa1a197e.jpg",
+        "image_2": "shopify://shop_images/7d2148bf-3742-4c10-8d61-45a283757328.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -875,6 +925,7 @@
     "slideshow_n9eJBt",
     "image_banner_NzGUXz",
     "main",
-    "contact_form_LwqT3c"
+    "contact_form_LwqT3c",
+    "image_banner_QX7REQ"
   ]
 }
