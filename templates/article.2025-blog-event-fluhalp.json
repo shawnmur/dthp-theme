@@ -164,6 +164,49 @@
         "padding_bottom": 52
       }
     },
+    "image_with_text_x6pe9z": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HzgYX7": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ntn3bk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_7q8ELV": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HzgYX7",
+        "text_Ntn3bk",
+        "button_7q8ELV"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_Vr4RyH": {
       "type": "image-with-text",
       "blocks": {
@@ -177,7 +220,7 @@
         "text_dMydK4": {
           "type": "text",
           "settings": {
-            "text": "<h4><strong>Your Retreat Experience</strong></h4><ul><li><h4> Stay at a remote high alpine Berghaus, with Matterhorn views from your window</h4></li><li><h4>Join sunrise and sunset painting sessions</h4></li><li><h4>Hike alpine lakes and mountain trails starting from our front door</h4></li><li><h4>Enjoy four course meals and relax with other artists in a cozy mountain berghaus</h4></li><li><h4>Participate in daily painting demos and skill building sessions.</h4></li><li><h4>Enjoy uninterrupted plein air painting time</h4></li><li><h4>Leave with new friends, skills, and lots of art.</h4></li></ul><h4><strong>Watercolor Skills</strong></h4><ul><li><h4>Practice plein air techniques to capture light, shadow, and atmosphere.</h4></li><li><h4>Learn watercolor techniques for layering, color mixing, creating texture to create a mood</h4></li><li><h4>Engage with art prompts to practice seeing and representing the landscape.</h4></li><li><h4>Compose dynamic compositions.</h4></li><li><h4>Explore color to convey mood, depth, and a sense of place.</h4></li><li><h4>Develop your personal painting style.</h4></li><li><h4>Receive one one one feedback to develop your skills and personal voice</h4></li><li><h4>Connect with and learn from fellow artists.</h4></li></ul>",
+            "text": "<h4><strong>Your Retreat Experience</strong></h4><ul><li><h4> Stay at a remote high alpine Berghaus, with Matterhorn views from your window</h4></li><li><h4>Join sunrise and sunset painting sessions</h4></li><li><h4>Hike alpine lakes and mountain trails starting from our front door</h4></li><li><h4>Enjoy four course meals and relax with other artists in a cozy mountain berghaus</h4></li><li><h4>Participate in daily painting demos and skill building sessions.</h4></li><li><h4>Enjoy uninterrupted plein air painting time</h4></li><li><h4>Leave with new friends, skills, and lots of art.</h4></li></ul>",
             "text_style": "body"
           }
         }
@@ -928,49 +971,6 @@
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_x6pe9z": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_HzgYX7": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "text_Ntn3bk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_7q8ELV": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_HzgYX7",
-        "text_Ntn3bk",
-        "button_7q8ELV"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
