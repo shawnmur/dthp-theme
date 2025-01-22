@@ -50,6 +50,109 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_kcKBq6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_W4LtVk": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join us for a unique watercolor retreat in the Swiss Alps, surrounded by stunning views of the Matterhorn.",
+            "heading_size": "h2"
+          }
+        },
+        "text_TWQnJD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spend four days painting outdoors with expert guidance from Nikki Frumkin in a small, supportive group. Connect with fellow artists and create beautiful work in a truly inspiring setting.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_W4LtVk",
+        "text_TWQnJD"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_ATJGBi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6fd4rt": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand</p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_CHiFHC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6fd4rt",
+        "text_CHiFHC"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_Vr4RyH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UykebN": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_dMydK4": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Your Retreat Experience</strong></h3><ul><li> Uninterrupted plein air painting time, with individual feedback discussions </li><li>Hike alpine lakes and mountain trails in the Swiss Alps</li><li>Enjoy meals and relax with other artists in a cozy mountain setting.</li><li>Daily painting demos and skill building sessions.</li><li>Sunrise and sunset painting sessions</li></ul><h3><strong>Skills You’ll Learn</strong></h3><ul><li>Practice plein air techniques to capture light, shadow, and atmosphere.</li><li>Play with watercolor techniques, including layering, color mixing, and creating texture.</li><li>Engage with art prompts to practice seeing and representing the landscape playfully.</li><li>Compose balanced and dynamic alpine landscapes.</li><li>Explore color to convey mood, depth, and a sense of place.</li><li>Develop your personal painting style.</li><li>Receive tailored feedback to enhance your skills.</li><li>Connect with and learn from fellow artists.</li><li>Leave with new friends and lots of art.</li></ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UykebN",
+        "text_dMydK4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-article",
       "blocks": {
@@ -343,44 +446,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "rich_text_NTcGND": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_7XcFbx": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand</p>",
-            "heading_size": "h1"
-          }
-        },
-        "text_TwnLwh": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_7XcFbx",
-        "text_TwnLwh"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "collage_3B4fBy",
+    "image_with_text_kcKBq6",
+    "rich_text_ATJGBi",
+    "image_with_text_Vr4RyH",
     "main",
     "image_with_text_aVMVRB",
     "slideshow_n9eJBt",
-    "collapsible_content_9mAfg8",
-    "rich_text_NTcGND"
+    "collapsible_content_9mAfg8"
   ]
 }
