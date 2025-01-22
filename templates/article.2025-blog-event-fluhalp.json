@@ -29,7 +29,7 @@
         "image_HUbMhD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.46.34_AM.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM_1.jpg",
             "image_padding": false
           }
         }
@@ -73,7 +73,7 @@
         "text_TWQnJD"
       ],
       "settings": {
-        "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM_1.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-01-22_at_12.46.34_AM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -243,7 +243,7 @@
       ],
       "settings": {
         "caption": "(Subject to change based on weather and group preferences)",
-        "heading": "Sample Itinerary",
+        "heading": "Itinerary",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
