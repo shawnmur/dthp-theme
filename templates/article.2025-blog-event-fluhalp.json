@@ -22,7 +22,7 @@
         "image_HUbMhD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/861-_DSC4186.jpg",
+            "image": "shopify://shop_images/819-_DSC4141.jpg",
             "image_padding": false
           }
         },
@@ -187,7 +187,7 @@
         "text_dMydK4"
       ],
       "settings": {
-        "image": "shopify://shop_images/819-_DSC4141.jpg",
+        "image": "shopify://shop_images/matter_pink_horn.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -931,6 +931,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_x6pe9z": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HzgYX7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ntn3bk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_7q8ELV": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HzgYX7",
+        "text_Ntn3bk",
+        "button_7q8ELV"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -938,6 +981,7 @@
     "rich_text_96tJwB",
     "image_with_text_kcKBq6",
     "rich_text_ATJGBi",
+    "image_with_text_x6pe9z",
     "image_with_text_Vr4RyH",
     "rich_text_4Y4zX4",
     "collapsible_content_jhJtD9",
