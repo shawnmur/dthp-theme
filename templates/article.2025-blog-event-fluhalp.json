@@ -403,6 +403,50 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_Xg334p": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jPbncc": {
+          "type": "heading",
+          "settings": {
+            "heading": "About your Instructor",
+            "heading_size": "h1"
+          }
+        },
+        "text_GPdeAQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nikki Frumkin is a Swiss-American watercolor artist and educator with a BFA in Painting and a BS in Art Education. Her work explores the movement of alpine landscapes and has been shown across the country including the Yosemite Valley Museum, and the permanent collection of Grand Teton National Park.  Nikki has experience leading watercolor workshops for adults and children, and partners with nonprofits including the Yosemite Conservancy and the North Cascades Institute. She has been working fulltime as an artist since 2015. <br/>You might also meet Nikki's dog and partner who will be exploring the area and taking some photos</p>",
+            "text_style": "body"
+          }
+        },
+        "button_FmV7Ed": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_jPbncc",
+        "text_GPdeAQ",
+        "button_FmV7Ed"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/New_Website_Banner_copy.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_w7hwy6": {
       "type": "image-with-text",
       "blocks": {
@@ -720,7 +764,7 @@
         "slide_XKW8yX": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM.jpg",
+            "image": "shopify://shop_images/818-_DSC4140.jpg",
             "show_text_box": false,
             "heading": "Image slide",
             "heading_size": "h1",
@@ -774,7 +818,25 @@
         "slide_VwDcbk": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-01-21_at_9.02.38_PM_1.jpg",
+            "image": "shopify://shop_images/919988c8-bd6b-4533-8a17-890faa1a197e.jpg",
+            "show_text_box": false,
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_J4YrTc": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/918688_ce02894800d8483fa877650fcff6fa14_mv2.webp",
             "show_text_box": false,
             "heading": "Image slide",
             "heading_size": "h1",
@@ -794,7 +856,8 @@
         "slide_XKW8yX",
         "slide_JNxywH",
         "slide_eJ3zLF",
-        "slide_VwDcbk"
+        "slide_VwDcbk",
+        "slide_J4YrTc"
       ],
       "settings": {
         "layout": "grid",
@@ -804,6 +867,54 @@
         "change_slides_speed": 5,
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner_cYpJ7p": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_TehRt7": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Your Instructor",
+            "heading_size": "h1"
+          }
+        },
+        "text_nk4Vae": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_NgVQ4U": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TehRt7",
+        "text_nk4Vae",
+        "buttons_NgVQ4U"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "image_banner_NzGUXz": {
@@ -958,7 +1069,7 @@
         "image_PCnhEn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/857-_DSC4182.jpg",
+            "image": "shopify://shop_images/861-_DSC4186.jpg",
             "image_padding": false
           }
         }
@@ -967,7 +1078,7 @@
         "image_PCnhEn"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -988,12 +1099,14 @@
     "rich_text_4Y4zX4",
     "collapsible_content_jhJtD9",
     "multicolumn_8rfDFH",
+    "image_with_text_Xg334p",
     "image_with_text_w7hwy6",
     "multicolumn_B6ktx4",
     "image_with_text_aVMVRB",
     "collapsible_content_9mAfg8",
     "video_eKAUbh",
     "slideshow_n9eJBt",
+    "image_banner_cYpJ7p",
     "image_banner_NzGUXz",
     "main",
     "contact_form_LwqT3c",
