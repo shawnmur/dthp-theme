@@ -63,7 +63,7 @@
         "text_TWQnJD": {
           "type": "text",
           "settings": {
-            "text": "<p>Spend four days painting outdoors with expert guidance from Nikki Frumkin in a small, supportive group. Connect with fellow artists and create beautiful work in a truly inspiring setting.</p>",
+            "text": "<p>Spend four days painting outdoors with expert guidance from Nikki Frumkin in a small, supportive group. Connect with fellow artists and create beautiful work in a truly inspiring setting.</p><p>.</p><p>.</p><p><strong>Dates: </strong>August 9 – August 12, 2025</p><p><strong>Location: </strong>2606 meters above sea level in the Suneegga-Blauherd-Rothorn area above Zermatt (with breathtaking Matterhorn views).</p>",
             "text_style": "body"
           }
         }
@@ -247,6 +247,49 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_B6ktx4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fBaENy": {
+          "type": "column",
+          "settings": {
+            "title": "Getting There",
+            "text": "<p>Fluhalp is accessible only by foot. From Blauherd, it’s a 45-minute walk to the hut. The easy hike, offering beautiful Matterhorn views, takes you from Blauherd via the scenic Stellisee to our retreat location at the Berghaus.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MiBRqt": {
+          "type": "column",
+          "settings": {
+            "title": "Staying at Berghaus Fluhalp",
+            "text": "<p>At Berghaus Fluhalp, you'll stay in comfortable rooms with stunning views of the Matterhorn. Accommodation options include shared rooms and private doubles. The dining room is where you'll enjoy breakfast and group dinners, and it's also a space for downtime. Additionally, a large sun terrace offers beautiful views of the Matterhorn, perfect for relaxing and taking in the alpine scenery. Shared bathrooms are free to use, while showers are available for a fee. The cozy berghaus creates an inspiring environment for your painting experience.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fBaENy",
+        "column_MiBRqt"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -539,49 +582,6 @@
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
-    },
-    "multicolumn_B6ktx4": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_fBaENy": {
-          "type": "column",
-          "settings": {
-            "title": "Getting There",
-            "text": "<p>Fluhalp is accessible only by foot. From Blauherd, it’s a 45-minute walk to the hut. The easy hike, offering beautiful Matterhorn views, takes you from Blauherd via the scenic Stellisee to our retreat location at the Berghaus.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_MiBRqt": {
-          "type": "column",
-          "settings": {
-            "title": "Staying at Berghaus Fluhalp",
-            "text": "<p>At Berghaus Fluhalp, you'll stay in comfortable rooms with stunning views of the Matterhorn. Accommodation options include shared rooms and private doubles. The dining room is where you'll enjoy breakfast and group dinners, and it's also a space for downtime. Additionally, a large sun terrace offers beautiful views of the Matterhorn, perfect for relaxing and taking in the alpine scenery. Shared bathrooms are free to use, while showers are available for a fee. The cozy berghaus creates an inspiring environment for your painting experience.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_fBaENy",
-        "column_MiBRqt"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -591,9 +591,9 @@
     "image_with_text_Vr4RyH",
     "main",
     "collapsible_content_jhJtD9",
+    "multicolumn_B6ktx4",
     "image_with_text_aVMVRB",
     "collapsible_content_9mAfg8",
-    "slideshow_n9eJBt",
-    "multicolumn_B6ktx4"
+    "slideshow_n9eJBt"
   ]
 }
