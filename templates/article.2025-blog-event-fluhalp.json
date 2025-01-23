@@ -547,17 +547,17 @@
       ],
       "settings": {
         "product": "painting-the-peaks-switzerland-retreat-1-spot",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "secondary_background": false,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": false,
         "media_fit": "contain",
-        "media_position": "left",
+        "media_position": "right",
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 8
       }
     },
     "image_with_text_aVMVRB": {
@@ -590,6 +590,7 @@
         "text_AYLENW",
         "button_X7beFH"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/workshop.jpg",
         "height": "adapt",
