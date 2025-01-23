@@ -1154,7 +1154,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_link_1": "shopify://products/painting-the-peaks-switzerland-retreat-1-spot",
             "button_style_secondary_1": false,
             "button_label_2": "Button label",
             "button_link_2": "",
