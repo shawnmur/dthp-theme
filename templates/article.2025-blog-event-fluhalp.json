@@ -64,7 +64,7 @@
         "text_iWU3Vb": {
           "type": "text",
           "settings": {
-            "text": "<p>Photography on this page is by Meghan Young</p>"
+            "text": "<p>Photography on this page is by <a href=\"https://www.missmeghanyoung.com/about\" title=\"https://www.missmeghanyoung.com/about\">Meghan Young</a></p>"
           }
         },
         "button_EkcYVy": {
